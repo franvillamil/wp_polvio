@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        <img src="img/capa.jpeg" style="width: 45%; height: 45%" /><br />
+        <h1><a href="https://franvillamil.github.io/wp_polvio"><b>War, Peace, and Political Violence</b></a></h1>
+
+        <p></p>
+        <p>
+          <br />
+          1C, 2023--2024<br />
+          Grado en Historia y Política<br />
+          Universidad Carlos III de Madrid<br />
+          Francisco Villamil<br />
+          <a href="mailto:francisco.villamil@uc3m.es">francisco.villamil@uc3m.es</a><br />
+        </p>
+        <p></p>
+        <p>
+        <p></p>
+        <p>
+          <a href="./index.html" style="font-size: 115%"><b>About</b></a><br />
+          <a href="./research.html" style="font-size: 115%"><b>Publications</b></a><br />
+          <a href="./teaching.html" style="font-size: 115%"><b>Teaching</b></a><br />
+          <a href="./data.html" style="font-size: 115%"><b>Data & Code</b></a><br />
+          <a href="./other.html" style="font-size: 115%"><b>Other writing</b></a><br />
+        </p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
