@@ -1,5 +1,8 @@
 ---
 ---
+// #542d2d #7d4343 reds, dark light
+// #069 o #006699 light blue
+// #004263 dark blue
 
 @import "{{ site.theme }}";
 
@@ -40,16 +43,14 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#069;
+  color:#7d4343;
   text-decoration:none;
 }
 
 a:hover {
-  color:#004263;
+  color:#542d2d;
   text-decoration: none;
   font-weight:400;
-  // text-shadow: -.25px -.25px #004263,
-  //             .25px .25px #004263;
 }
 
 a small {
@@ -60,13 +61,13 @@ a small {
 }
 
 h1 a:hover {
-  color:#004263;
+  color:#542d2d;
   text-decoration: none;
   font-weight:500;
 }
 
 .ai a:hover {
-  color:#004263;
+  color:#542d2d;
 }
 
 .wrapper {
