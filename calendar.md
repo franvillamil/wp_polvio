@@ -7,7 +7,7 @@ layout: default
 | Date        | Topic                                   |
 | :---        | :---                                    |
 | Sept 7-8    | [1: Introduction](./slides#introduction) |
-| Sept 14-15  | 2: Basics of IR                         |
+| Sept 14-15  | [2: Basics of IR](./slides#basics-of-ir) |
 | Sept 21-22  | 3: Understanding interstate war         |
 | Sept 28-29  | 4: War throughout history               |
 | Oct 5-6     | 5: Civil wars I                         |

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Slides
+## Slides & readings
 
 
 ### Introduction
