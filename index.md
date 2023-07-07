@@ -6,18 +6,18 @@ layout: default
 
 | Date        | Topic                                   |
 | :---        | :---                                    |
-| Sept 7-8    | [1: Introduction](./slides#introduction) |
-| Sept 14-15  | [2: Basics of IR](./slides#basics-of-ir) |
-| Sept 21-22  | 3: Understanding interstate war         |
-| Sept 28-29  | 4: War throughout history               |
-| Oct 5-6     | 5: Civil wars I                         |
+| Sept 7-8    | [Introduction](./slides#introduction)   |
+| Sept 14-15  | [Basics of IR](./slides#basics-of-ir)   |
+| Sept 21-22  | [Understanding interstate war](./slides#interstate-war) |
+| Sept 28-29  | [War throughout history](./slides#war-throughout-history) |
+| Oct 5-6     | [Civil wars I](./slides#civil-wars)     |
 | Oct 12-13   | *No class*                              |
-| Oct 19-20   | 6: Civil wars II                        |
-| Oct 26-27   | 7: Wartime violence                     |
-| Nov 2-3     | 8: Non-state armed actors and civilians |
-| Nov 9-10    | 9: Terrorism                            |
-| Nov 16-17   | 10: Postwar politics and prevention     |
-| Nov 23-24   | 11: Transitional Justice                |
-| Nov 30-31   | 12: Legacies and consequences of war    |
+| Oct 19-20   | [Civil wars II](./slides#civil-wars)    |
+| Oct 26-27   | [Wartime violence](./slides#wartime-violence) |
+| Nov 2-3     | [Non-state armed actors and civilians](./slides#non-state-armed-actors) |
+| Nov 9-10    | [Terrorism](./slides#terrorism)         |
+| Nov 16-17   | [Postwar politics and prevention](./slides#postwar-politics-and-prevention) |
+| Nov 23-24   | [Transitional Justice](./slides#transitional-justice) |
+| Nov 30-31   | [Legacies and consequences of war](./slides#legacies-and-consequences) |
 | Dec 7-8     | *No class*                              |
 | Dec 14-15   | Wrap-up and extra presentations         |
