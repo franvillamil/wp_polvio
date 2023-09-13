@@ -11,6 +11,7 @@ layout: default
 
 ### Basics of IR
 
+- [Slides](./slides/1_IR/IR_intro.pdf)
 
 ### Interstate war
 
