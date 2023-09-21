@@ -12,6 +12,9 @@
 \renewcommand<>{\BGred}[1]{\only#2{\beameroriginal{\BGred}}{#1}}
 \renewcommand<>{\BGasher}[1]{\only#2{\beameroriginal{\BGasher}}{#1}}
 
+\usetikzlibrary{graphs}
+\usetikzlibrary{shapes,snakes}
+
 \begin{document}
 
 \begin{frame}
@@ -217,13 +220,25 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 \frametitle{Liberal theories}
 \centering
 
-
+\begin{itemize}
+  \item More popular explanations (nowadays), and also more geared to \textit{specific cases}
+  \item Realist explanations are perhaps more focused on explaining system-wide instability
+  \item Liberal theories are more applicable to specific states or dyads
+  \begin{itemize}
+    \item Even though they are also use to justify global systems
+  \end{itemize}
+  \item Two main theories:
+  \begin{itemize}
+    \item Democratic peace
+    \item Capitalist peace
+  \end{itemize}
+\end{itemize}
 
 \end{frame}
 
 
 \begin{frame}
-\frametitle{Liberal theories: the democratic peace}
+\frametitle{The democratic peace}
 \centering
 
 \begin{itemize}
@@ -237,31 +252,34 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
   \item Democratic culture is more peaceful, democratic leaders are constrained by public opinion... (second image explanations)
   \item Common interests of democracies, historical learning process (system-level)
   \end{itemize}
+\item<3-> Policy implications at the global and specific levels
 \end{itemize}
 
 \end{frame}
 
 \begin{frame}
-\frametitle{Liberal theories: the capitalist peace}
+\frametitle{The capitalist peace}
 \centering
 
 \begin{itemize}
 \item<1-> Main idea: `don't bite the hand that feeds you'
-% \item Related to 19th-century economic liberalism against mercantilism or nationalism: trade could improve the well-being of all countries, which also includes war
+\begin{itemize}
+  \item Related to 19th-century economic liberalism against mercantilism or nationalism: trade could improve the well-being of all countries, which also includes war
+\end{itemize}
 \item<2-> ``Opportunity cost'' hypothesis: if we benefit from trade, and war disrupts trade, the cost of fighting will be higher
   \begin{itemize}
   \item The more intense trade is, the most we will lose
   \item Domestic economic actors have incentives to influence
   \end{itemize}
 \item<3-> Other theories point to the effects of economic prosperity
-\item<4-> Some say that the democratic peace is not because democracy itself, but because of economic interdependences between wealthy countries (which happen to be democracies)
+\item<3-> Some say that the democratic peace is not because democracy itself, but because of economic interdependences between wealthy countries (which happen to be democracies)
 \end{itemize}
 
 \end{frame}
 
 % ----------------------------------------------------
 \begin{frame}
-\frametitle{Liberalism}
+\frametitle{Liberalism nowadays}
 \centering
 
 \includegraphics[width = 0.7\textwidth]{img/forbes_why_not1}\\
@@ -281,7 +299,7 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
   \item Dyadic effects not taken into account: one side of the trading relationship could use war to increase their advantage
   \item Asymmetry can lead to exploitation (Marxists \& realists)
   \end{itemize}
-\item Most evidence suggests conflict-decreasing effect
+\item Most empirical evidence suggests conflict-decreasing effect
 \end{itemize}
 
 \end{frame}
@@ -289,25 +307,17 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 
 % ----------------------------------------------------
 \begin{frame}
-\frametitle{Constructivism}
+\frametitle{Constructivist theories}
 \centering
+
+\includegraphics[width = 0.8\textwidth]{img/putin_historical_unity}
 
 \begin{itemize}
-  \item<1-> It's not only about material stuff, you have to pay attention to \textbf{ideology} (broadly defined)
-  \item<2-> Leaders' self-perceived position and goals, identities, etc are socially constructed
-  \item<2-> `Anarchy is what states make of it` (Alexander Wendt)
-  \item<3-> Importance of \textbf{norms}
+  \item Also remember discussion from last day on ethnic groups
+  \begin{itemize}
+    \item probably more relevant in connection with other types of conflict
+  \end{itemize}
 \end{itemize}
-
-\end{frame}
-% ----------------------------------------------------
-
-% ----------------------------------------------------
-\begin{frame}
-\frametitle{Constructivism}
-\centering
-
-\includegraphics[width = \textwidth]{img/putin_historical_unity}
 
 \end{frame}
 % ----------------------------------------------------
@@ -322,9 +332,13 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 
 \vspace{15pt}
 
-\uncover<2->{\includegraphics[width = \textwidth]{img/fearon_model}}
+\uncover<2>{\footnotesize The \BGyellow{central puzzle about war}, and also the main reason we study it, is that \BGyellow{wars are costly but nonetheless wars recur}. Scholars have attempted to resolve the puzzle with three types of argument. \BGyellow{First}, \textbf{one can argue that people} (and state leaders in particular) \textbf{are sometimes or always irrational.} They are subject to biases and pathologies that lead them to neglect the costs of war or to misunderstand how their actions will produce it. \BGyellow{Second}, \textbf{one can argue that the leaders who order war enjoy its benefits but do not pay the costs}, which are suffered by soldiers and citizens. \BGyellow{Third}, \textbf{one can argue that even rational leaders} who consider the risks and costs of war may \textbf{end up fighting nonetheless.}}
 
 \end{frame}
+
+% ----------------------------------------------------
+\imageframe{img/fearon_model}
+% ----------------------------------------------------
 
 \begin{frame}
 \frametitle{Bargaining model of war}
@@ -379,7 +393,7 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 
   \begin{itemize}
     \item[]
-    \item This approach should be able to explain why there was never a nuclear war: the cost is just too high, even taking into account uncertainties
+    \item This approach should be able to explain why there was never a \textbf{nuclear war}: the cost is just too high, even taking into account uncertainties
     \item[]
     \item[]
   \end{itemize}
@@ -403,17 +417,18 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 
 \begin{itemize}
 \item<1-> Why are states (or opposing parties) unable to reach a peaceful settlement before war? Three possibilities:
-\item<2> Private information
+\item<2-> \BGyellow<2>{Private information}
   \begin{itemize}
   \item States do not have full information regarding the balance of power (like a Poker game, and war is like showing your cards)
   \end{itemize}
-\item<3> Commitment problems
+\item<3-> \BGyellow<3-4>{Commitment problems}
   \begin{itemize}
   \item When any kind of deal is unsustainable because of the incentive structure (e.g. Prisoner's dilemma), as when a declining powerful state has a dispute with an emerging new power
+  \only<4>{\item Think about \textbf{preventive wars} or wars over bargaining issues that will affect \textbf{future balance of power}. Also, leaders could create or overcome them: sunk costs (e.g. mobilizing troops) or tying hands (e.g. domestic audiences)}
   \end{itemize}
-\item<4> Indivisible issues
+\item<5-> \BGyellow<5>{Indivisible issues}
   \begin{itemize}
-  \item If we are fighting for a piece of land or commercial rights, maybe we can split it up, but what if we are fighting for something sacred, e.g. control of Jerusalem?
+  \item If we are fighting for a piece of land or commercial rights, maybe we can split it up, but what if we are fighting for something sacred, e.g. control of Jerusalem? (constructivism!)
   \end{itemize}
 \end{itemize}
 
@@ -437,25 +452,25 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 
 \end{frame}
 
-\begin{frame}
-\frametitle{Psychological theories}
-\centering
-
-\begin{itemize}
-\item<1-> Modernized `first-image' account, focusing on two aspects of key decision-makers
-\item<2-> Their own psychology: belief systems, personalities, etc
-  \begin{itemize}
-  \item Formative experiences, education, culture...
-  \item Main idea: with a different leader, things would have gone differently
-  \end{itemize}
-\item<3-> Psychological processes involved in decision-making
-  \begin{itemize}
-  \item Bounded rationality: leaders are humans, and thus have limited capacities, limited access to information, cognitive biases, etc
-  \item Why people play the lottery? (Prospect theory \& Kahneman's \textit{Thinking, Fast and Slow}?)}
-  \end{itemize}
-\end{itemize}
-
-\end{frame}
+% \begin{frame}
+% \frametitle{Psychological theories}
+% \centering
+%
+% \begin{itemize}
+% \item<1-> Modernized `first-image' account, focusing on two aspects of key decision-makers
+% \item<2-> Their own psychology: belief systems, personalities, etc
+%   \begin{itemize}
+%   \item Formative experiences, education, culture...
+%   \item Main idea: with a different leader, things would have gone differently
+%   \end{itemize}
+% \item<3-> Psychological processes involved in decision-making
+%   \begin{itemize}
+%   \item Bounded rationality: leaders are humans, and thus have limited capacities, limited access to information, cognitive biases, etc
+%   \item Why people play the lottery? (Prospect theory \& Kahneman's \textit{Thinking, Fast and Slow}?)}
+%   \end{itemize}
+% \end{itemize}
+%
+% \end{frame}
 
 \begin{frame}
 \frametitle{Wraping up: what causes wars?}
@@ -476,9 +491,9 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 \begin{itemize}
 \item<1-> But we do know some empirical regularities over which new theories can be built, for example:
 \item[]
-\item<2-> Democracies and capitalist societies rarely fight each other
-\item<3-> Many wars are fought among contiguous states over territorial disputes (which doesn't mean that neighbors usually fight each other)
-\item<4-> Asymmetry does not usually lead to war, and wars are usually fought between strategic rivals
+\item[1.]<2-> Democracies and capitalist societies rarely fight each other
+\item[2.]<3-> Many wars are fought among contiguous states over territorial disputes (which doesn't mean that neighbors usually fight each other)
+\item[3.]<4-> Asymmetry does not usually lead to war, and wars are usually fought between strategic rivals
 \end{itemize}
 
 \end{frame}
@@ -551,19 +566,23 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 \begin{itemize}
   \item<1-> \textbf{Hierarchy}
   \begin{itemize}
-    \item
+    \item some types create the conditions for others to emerge within
+    \item interstate wars can create genocides or revolutions
   \end{itemize}
   \item<2-> \textbf{Instrumentality}
   \begin{itemize}
-    \item
+    \item `using' a type of political violence as a tool to implement another
+    \item terrorism can be used to win a civil war, or inter-communal violence to engage in a genocide
   \end{itemize}
   \item<3-> \textbf{Escalation}
   \begin{itemize}
-    \item
+    \item kind of like hierarchy, but in the opposite direction
+    \item Syria 2011, 1936 coup in Spain, communal violence and civil war?
   \end{itemize}
   \item<4-> \textbf{Substitution}
   \begin{itemize}
-    \item
+    \item strategic choice between two types of civil wars
+    \item proxy wars during the Cold War, terrorists and civil wars, genocide and ethnic cleansing (Plan Madagascar)
   \end{itemize}
 \end{itemize}
 
@@ -576,6 +595,18 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 \centering
 
 \includegraphics[width = \textwidth]{img/ny_taiwan}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Exam question from Dec 2022}
+\centering
+
+\begin{itemize}
+  \item Tensions between China and the US have increased significantly during the last few months, related to the conflict over Taiwan. As a result, there has been some discussion lately about the risk of a potential open conflict between the US and China in the near future (\href{https://www.newyorker.com/magazine/2022/11/21/a-dangerous-game-over-taiwan}{e.g.}). Yet, \textit{beyond} a US-China war, how do you think this increase in tensions and the growing (military) power of China can affect patterns of political violence across the world? (1000 words)
+\end{itemize}
 
 \end{frame}
 % ----------------------------------------------------
