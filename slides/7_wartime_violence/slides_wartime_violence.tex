@@ -1,0 +1,681 @@
+%%% NOTE ESTOY HAY QUE CAMBIARLO, ES DEMASIADO ACADÉMICO
+% --- PONER EJEMPLOS Y HACER PREGUNTAS? MÁS INTERACTIVO?
+
+
+\documentclass[utf8, xcolor=dvipsnames, handout]{beamer}
+% \usetheme{Frankfurt} % Boadilla - Ilmenau
+
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{csquotes}
+\usepackage{changepage}
+\usepackage{color}
+\usepackage[colorlinks = TRUE, allcolors = blue]{hyperref}
+\useinnertheme{rectangles}
+\usepackage{tikz}
+\usetikzlibrary{graphs}
+\usetikzlibrary{decorations.pathreplacing}
+
+% \setbeamercovered{transparent}
+\setbeamercolor{title}{bg=Blue, fg=white}
+\setbeamercolor{title_int}{bg=white, fg=Blue}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{itemize items}[circle]
+\setbeamertemplate{blocks}[default]
+\setbeamertemplate{headline}[default]
+\setbeamertemplate{section in head}{}
+\setbeamertemplate{subsection in head}{}
+\setbeamercolor{section in foot}{fg=Blue, bg=white}
+\setbeamercolor{subsection in foot}{fg=Blue, bg=white}
+\setbeamercolor{frametitle}{fg=Blue, bg=white}
+\setbeamercolor{footlinecolor}{bg=white,fg=Blue}
+\useoutertheme[compress]{miniframes}
+
+\makeatother
+\setbeamertemplate{footline}
+{%
+  \leavevmode%
+  \hbox{
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{footlinecolor}%
+    \usebeamerfont{author in head/foot}
+    \insertshorttitle\hfill\insertshortauthor\hfill\insertshortdate\hfill\insertframenumber/\inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\setbeamertemplate{headline}[default]
+{%
+    \def\beamer@entrycode{\vspace*{0pt}}
+}
+\makeatletter
+
+\title[Wartime violence]{Wartime violence}
+\author[Francisco Villamil]{Francisco Villamil}
+\date[UC3M / Fall 2022]{War, peace, and political violence\\Fall 2022\\Universidad Carlos III de Madrid}
+
+\begin{document}
+
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Admin stuff reminder}
+\centering
+
+\begin{itemize}[<+->]
+  \item Presentations (20\%)
+  \begin{itemize}
+    \item Last 2 seminars: Dec 5th, Dec 12th
+    \item 5-6 pres/day, 2 days: max 10-12 groups (ideally groups of 4)
+    \item Send me an email \textbf{before Nov 24th}: group \& topic
+    \item Topic, day \& time: \textbf{first come first served} (tell me what you prefer)
+  \end{itemize}
+  \item[]
+  \item Final exam/essay (60\%)
+  \begin{itemize}
+    \item 2 options: \textbf{either} the exam (default) \textbf{or} the book review
+    \item Both are online-based
+    \item \textbf{December exam:} DECEMBER 15th (23.59h)
+    \item \textbf{January exam:} JANUARY 16th (23.59h)
+    \item You can submit the book review anytime, deadline: exam date
+
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{What we have seen so far}
+\centering
+
+\begin{itemize}
+  \item<1-> Focus on whole conflicts/events
+  \begin{itemize}
+    \item Thirty Years' War, WWII, Sri Lankan Civil War, Rwandan Genocide, etc
+  \end{itemize}
+  \item<2-> Historical trends in conflicts and big global changes
+  \begin{itemize}
+    \item What historical events explain long-term trends in war?
+  \end{itemize}
+  \item<3-> Causes of individual conflicts
+  \begin{itemize}
+    \item Why did e.g. the Second Congo War break out? What countries are at risk of conflict?
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}<1-4>[label=previous]
+\frametitle{What we have seen so far}
+\centering
+
+\begin{itemize}[<+->]
+  \item But we're also very interested in patterns of \textit{violence} (what conflicts are made of), which varies a lot
+  \item Some people don't pay much attention to this: they are more interested in the causes
+  \begin{itemize}
+    \item In civil wars, violence is assumed to be more brutal and involve civilians more often
+    \item In inter-state war studies, many just used to define a minimum of \textit{battle deaths} to call a war a war, and then just ignore it (which also sidelines other forms of violence, such as violence against civilians)
+  \end{itemize}
+  \item In brief, violence was only `used' to identify events
+  \item But violence is not random at all
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence patterns during WWII}
+\centering
+
+\includegraphics[width = 0.8\textwidth]{img/wwii-normandy}
+
+Battle of Normandy
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence patterns during WWII}
+\centering
+
+\includegraphics[width = 0.8\textwidth]{img/wwii-pearlharbor}
+
+Pearl Harbor
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence patterns during WWII}
+\centering
+
+\includegraphics[width = 0.8\textwidth]{img/wwii-londonblitz}
+
+London Blitz
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence patterns during WWII}
+\centering
+
+\includegraphics[width = 0.8\textwidth]{img/wwii-resistance}
+
+French Resistance
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence patterns during WWII}
+\centering
+
+\includegraphics[width = 0.8\textwidth]{img/wwii-womencolab}
+
+Women accused of collaboration with the Nazis, Paris 1944
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence patterns during WWII}
+\centering
+
+\includegraphics[width = 0.8\textwidth]{img/wwii-holocaust}
+
+Holocaust against Jews
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence patterns during WWII}
+\centering
+
+\includegraphics[width = 0.8\textwidth]{img/wwii-Sachsenhausen}
+
+Political prisoners in Sachsenhausen camp
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\againframe<5-6>{previous}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence in civil wars}
+\centering
+
+\begin{itemize}
+  \item<1-> Even more important when talking about civil wars
+  \item<2-> Different idea about civil wars than war between states
+  \begin{itemize}
+    \item Military contest vs barbarian chaos
+  \end{itemize}
+  \item<3-> Key aspect: distinction between \textbf{battle violence} and \textbf{violence against civilians}
+  \begin{itemize}
+    \item Blurry in civil wars: what distinguishes a combatant from a civilian?
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Violence in civil wars}
+\centering
+
+\begin{itemize}[<+->]
+  \item We are going to talk a lot about two (or three) important things relatively unique to civil wars
+  \item[1.] Role of civilians in civil wars
+  \begin{itemize}
+    \item `Object' of fighting (a civil war is a war over sovereignty, political rule needs some support, etc), supporting role, etc
+  \end{itemize}
+  \item[2.] Problem of information
+  \begin{itemize}
+    \item Not for us to distinguish battle violence, but for combatants: who's the enemy?
+  \end{itemize}
+  \item[(*)] `Informality' of civil wars: less rules, less \textit{jus in bello}, less central planning etc
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Types of violence}
+\centering
+
+\begin{itemize}
+  \item<1-> According to whether they are armed actors or not:
+  \item<2->[-] Battle violence (or bilateral)
+  \item<3->[-] Violence against civilians (or unilateral)
+  \begin{itemize}
+    \item<4-> We'll focus on this: violence by armed organizations against unarmed civilians
+    \item<4-> Very relevant in the context of civil wars
+    \item<4-> Usually the source of war-related suffering, many consequences, legally sanctioned...
+  \end{itemize}
+  \item[]
+  \item<5-> Sometimes: state-based, non-state, one-sided
+  \item<6-> Difference between e.g. state-based violence and state-based conflicts?
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Types of violence}
+\centering
+
+\begin{itemize}[<+->]
+  \item This distinction is based on the actors, which helps making sense of it
+  \item But when we look at different actors or groups, not all definitely appear to use violence the same way
+\end{itemize}
+
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Patterns of political violence}
+\centering
+
+% \begin{itemize}
+%   \item We can use a more nuanced description of the pattern of political violence, usually referred to an organization (Gutierrez-Sanín \& Wood, 2017)
+%   \item Repertoire
+%   \begin{itemize}
+%     \item Forms of violence usually employed: homicide, torture, displacement, rape...
+%   \end{itemize}
+%   \item Targeting
+%   \begin{itemize}
+%     \item Which social group is directed at? Selective violence, collective violence, `indiscriminate' violence, etc
+%   \end{itemize}
+%   \item Technique
+%   \begin{itemize}
+%     \item Method used to commit violence: small firearms, machetes, aerial bombings, suicide bombing, etc
+%   \end{itemize}
+%   \item Frequency
+%   \begin{itemize}
+%     \item Count of violent events, or rate or incidence
+%   \end{itemize}
+% \end{itemize}
+
+\includegraphics[width = \textwidth]{img/pattern_of_pv}
+
+{\footnotesize Gutierrez-Sanín \& Wood (2017)}
+
+\begin{itemize}
+  \item Usually referred to organizations
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Patterns of political violence}
+\centering
+
+\includegraphics[width = \textwidth]{img/foley}
+
+e.g. ISIS' pattern of political violence
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Understanding violence against civilians}
+\centering
+
+\begin{quote}
+{\normalfont Lawrence Eagleburger (US Secretary of State) in 1992, on Yugoslavia:} ``this war is not rational. There is no rationality at all about ethnic conflict. It is gut, it is hatred; it’s not for any set of values or purposes; it just goes on''
+\end{quote}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Understanding violence against civilians, pre 2000}
+\centering
+
+\begin{itemize}
+  \item<1-> Violence against civilians seen as \textit{collateral violence}
+  \item<2-> Differences because of external factors: available weapons, population density, etc
+  \item<3-> In those cases where intentionality was clear (e.g. genocides, ethnic violence): ancient hatreds
+\end{itemize}
+
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Understanding violence against civilians, pre 2000}
+\centering
+
+\begin{itemize}
+  \item<1-> \textbf{Problem} with this perspectives? \textbf{there's nothing to explain, violence happens because it happens}
+  \item[]
+  \item<2-> (There was an exception, actually: those who studied terrorism did view violence against civilians as instrumental)
+\end{itemize}
+
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{The new consensus}
+\centering
+
+\begin{itemize}[<+->]
+  \item Problems:
+  \begin{itemize}
+    \item The ancient hatreds perspective is not useful: inter-ethnic violence is very rare even if ethnic tensions are common
+    \item It's not only \textit{inter-}ethnic violence, also \textit{intra-}ethnic
+    \item Previous `mass irrational violence' not useful either: most of the violence usually committed by a small percentage, often male linked to militias or paramilitary groups
+  \end{itemize}
+  \item Now we know that violence is an extension of war and an extension of politics
+\end{itemize}
+
+
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Civilian killings and war}
+\centering
+
+\begin{itemize}
+  \item<1-> Killing of civilians is deeply related to the central logic of the war
+  \item<2-> Civilians are not bystanders to a war, they play a central role (offering support, human resources, etc) and, sometimes, they become the object of war
+  \item<3-> Most attention on \textit{state-led} violence against civilians: because of they capacities (to inflict violence \& to control territory and have access to the civilian population), states have usually been the main perpetrators
+  \begin{itemize}
+    \item[] (Not always: ISIS' infamous record, West African rebel groups, ...)
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Civilian killings and war}
+\centering
+
+\begin{itemize}
+  \item<1-> Technology of rebellion and counter-insurgency strategy explain very well patterns of violence against civilians
+  \item[]
+  \item<2-> ``The guerrilla must move amongst the people as a fish swims in the sea'' (Mao Tse-Tung)
+  \item<3-> Response by the state? General Ríos Montt in Guatemala: drain the sea in which the guerrilla swim
+  \item<4-> More civilian victimization when state is uncapable of withdrawing support to the rebels or defeating them in some other way
+  \item<4-> This logic easily leads to mass killing episodes, or ethnic cleansing in contexts whether support is assumed to follow ethnic lines
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Civilian killings and war}
+\centering
+
+\begin{itemize}
+  \item<1-> Another perspective focuses on rebel groups and their incentives (rebel-led violence)
+  \item<2-> Terrorism is a classic example: use of civilian killings to extract concessions from governments (particularly in democratic regimes, where people have more leverage)
+  \item<3-> But rebel groups can also use violence to gain cooperation from civilians (typically, with territorial control)
+  \begin{itemize}
+    \item Weinstein 2007: if you depend on civilian cooperation for critical resources, you don't kill them, but if you extract your wealth from natural resources or external financing, you have less incentives not to kill
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{The politics of civilian killings}
+\centering
+
+\begin{itemize}
+  \item<1-> Another point of view focuses on the political logic of victimization, which also applies to civilian killings \textit{outside} war
+  \begin{itemize}
+    \item What are the incentives of elites to engage in or promote violence against civilians?
+  \end{itemize}
+  \item[]
+  \item<2-> Main idea: political elites obtain political benefits by promoting violence
+  \begin{itemize}
+    \item Does not necessarily lead to mass violence, but it can
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{The politics of civilian killings}
+\centering
+
+\begin{itemize}
+  \item<1-> One example: ethnic outbidding
+  \begin{itemize}
+    \item I might gain political capital by being more radical than my competitors
+    \item In a multi-ethnic context, this isn't usually good news
+  \end{itemize}
+  \item<2-> Role of ideology
+  \begin{itemize}
+    \item Sometimes seen as instrumental, but not so clear in other cases, e.g. anti-semitism in Nazi Germany, violence related to Communist agricultural policies, etc
+    \item Ideology might play a bigger role as a \textit{restraining} factor
+  \end{itemize}
+  \item<3-> Getting away with violence
+  \begin{itemize}
+    \item Use more violence against opposition, media control, public cost vs private incentives, etc
+  \end{itemize}
+  \end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{The microdynamics of civil wars}
+\centering
+
+\begin{itemize}[<+->]
+  \item New type of studies after the mid-2000s: studying within-conflict dynamics, using micro-level data
+  \item Quantitative analysis, archival data, case studies, etc
+  \item Goal: know \textit{what} happened during a conflict and \textit{why} we see different levels of violence across different regions or municipalities
+  \item (Problem? More difficult to generalize)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{The microdynamics of civil wars}
+\centering
+
+\begin{minipage}{0.59\textwidth}\centering
+  \includegraphics[width = \textwidth]{img/dissplot_spain}
+\end{minipage}\hfill
+\begin{minipage}{0.4\textwidth}\centering
+  \includegraphics[width = \textwidth]{img/dissplot_guatemala}\\
+  \includegraphics[width = \textwidth]{img/dissplot_time}
+\end{minipage}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{The microdynamics of civil wars}
+\centering
+
+\begin{minipage}{0.69\textwidth}\centering
+\begin{itemize}
+  \item<2-> Main idea: it's not about master cleavages, but about endogenous local violence motivated by private reasons: vendettas, local feuds, etc
+  \item<3-> Collaboration between local actors (information) and external enforcers (violence)
+  \item<4-> We should see more violence in areas where territorial control is not full
+  \begin{itemize}
+    \item Local, loyal informants can safely denounce \& armed actors have incentives to kill
+  \end{itemize}
+\end{itemize}
+\end{minipage}\hfill
+\begin{minipage}{0.3\textwidth}\centering
+\includegraphics[width = \textwidth]{img/kalyvas2006}\\
+{\footnotesize Stathis Kalyvas (2006)}
+\end{minipage}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Personal motives or politics?}
+\centering
+
+\begin{minipage}{0.49\textwidth}\centering
+  \includegraphics[width = 0.65\textwidth]{img/steele2017}\\
+  {\footnotesize Abbey Steele (2017)}
+\end{minipage}\hfill
+\begin{minipage}{0.49\textwidth}\centering
+  \includegraphics[width = 0.65\textwidth]{img/balcells2017}\\
+  {\footnotesize Laia Balcells (2017)}
+\end{minipage}
+
+\vspace{10pt}
+
+\begin{itemize}
+  \item Two extensions to Kalyvas' model highlighting the role of \textit{political identity} in understanding wartime violence
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Personal motives or politics?}
+\centering
+
+\begin{itemize}
+  \item<1-> Kalyvas' perspective emphasized that civil war violence emerges out of local grievances or feuds, private conflicts, vendettas, etc... and was \textit{later} interpreted along the master cleavage of the war
+  \item<2-> But do political identities play a role?
+  \item<2-> Think about the Spanish Civil War: is it that `reds' killed `blues' and vice-versa, or was violence produced by land disputes and enmities among neighbors who took advantage of the war to settle these conflicts?
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Personal motives or politics?}
+\centering
+
+\begin{itemize}
+  \item Steele: after elections were held, paramilitary groups could identify civilians perceived as loyal to the insurgents and implement political cleansing on those municipalities
+  \item Balcells: more \textit{direct} violence against civilians in those municipalities where electoral competition was higher, and a second round of violence motivated by revenge after territorial control changed
+  \item Also in Spain: \textit{indirect} violence (e.g. bombings) directed at those areas that had politically supported the opposite side before the war
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Explaining killings}
+\centering
+
+\begin{itemize}
+  \item The key idea is that killing civilians often responds to \textbf{strategic incentives}, not so much to irrationality
+  \item The Q (or what changes from context to context) is where are those incentives
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Beyond fatal violence}
+\centering
+
+\begin{minipage}{0.65\textwidth}\centering
+  \begin{itemize}[<+->]
+    \item<2->[1.] Opportunistic rape
+    % \item<2-> {\small earlier perspective, anarchy during civil wars}
+    \item<3->[2.] Strategic violence
+    % \item<3-> {\small sowing fear, damaging the enemy, spoils of war, ...}
+    \item<4->[3.] Rape as a practice
+    \item<5-> e.g. Cohen (right): gang rape as a socialization practice within armed groups, more likely when there is \textit{forced recruitment}
+  \end{itemize}
+\end{minipage}\hfill
+\begin{minipage}{0.34\textwidth}\centering
+\includegraphics[width = 0.7\textwidth]{img/cohen_rape}\\Dara Kay Cohen (2016)
+\end{minipage}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Zooming out: Why are civil wars so violent?}
+\centering
+
+\begin{itemize}
+  \item Hobbessian anarchy
+  \item Transgression (of the norms of war and violence)
+  \item Schmittian polarization
+  \item Technology of warfare
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Next seminar}
+\centering
+
+\begin{minipage}{0.59\textwidth}\centering
+\begin{itemize}
+  \item Relationship between combatants, civilians, and violence
+  \item Logic of violence in contexts of civil war and/or terrorism
+  \item Role of ethnic divisions
+\end{itemize}
+\end{minipage}\hfill
+\begin{minipage}{0.35\textwidth}\centering
+\includegraphics[width = 0.9\textwidth]{../w01 - intro/img/say_nothing}\\
+\end{minipage}
+
+\end{frame}
+% ----------------------------------------------------
+
+\end{document}
