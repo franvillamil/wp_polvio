@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  21 SEP 2023 10:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  21 SEP 2023 11:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1079,24 +1079,24 @@ File: pgflibraryshapes.misc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
  (./interstate.aux)
 \openout1 = `interstate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1157,7 +1157,7 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 12.
+Package hyperref Info: Link coloring ON on input line 15.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1167,62 +1167,62 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count488
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
  (./interstate.out) (./interstate.out)
 \@outlinefile=\write6
 \openout6 = `interstate.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 15.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 15.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 15.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 15.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 12.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 15.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 15.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 15.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 12.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 12.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 15.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 15.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 15.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 12.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 15.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 12.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 15.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1258,21 +1258,21 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'interstate.bbl' found.
  (./interstate.bbl)
-Package biblatex Info: Reference section=0 on input line 12.
-Package biblatex Info: Reference segment=0 on input line 12.
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
  (./interstate.nav)
-Overfull \hbox (2.12503pt too wide) in paragraph at lines 12--12
+Overfull \hbox (2.12503pt too wide) in paragraph at lines 15--15
 [][]  
  []
 
 
-./interstate.tex:16: LaTeX Error: There's no line here to end.
+./interstate.tex:19: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 \end{frame}
+l.19 \end{frame}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1286,7 +1286,7 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 35.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 38.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
@@ -1342,7 +1342,7 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 <img/invasion_ft.png, id=60, 823.075pt x 634.37pt>
 File: img/invasion_ft.png Graphic file (type png)
 <use img/invasion_ft.png>
-Package pdftex.def Info: img/invasion_ft.png  used on input line 46.
+Package pdftex.def Info: img/invasion_ft.png  used on input line 49.
 (pdftex.def)             Requested size: 291.77383pt x 224.87865pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
@@ -1355,7 +1355,7 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 <img/foreignaffairs_nagorno.png, id=68, 694.595pt x 472.76625pt>
 File: img/foreignaffairs_nagorno.png Graphic file (type png)
 <use img/foreignaffairs_nagorno.png>
-Package pdftex.def Info: img/foreignaffairs_nagorno.png  used on input line 57.
+Package pdftex.def Info: img/foreignaffairs_nagorno.png  used on input line 60.
 (pdftex.def)             Requested size: 259.35727pt x 176.52945pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
@@ -1368,10 +1368,10 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 <img/ft_south_china_sea.png, id=77, 739.76375pt x 604.2575pt>
 File: img/ft_south_china_sea.png Graphic file (type png)
 <use img/ft_south_china_sea.png>
-Package pdftex.def Info: img/ft_south_china_sea.png  used on input line 67.
+Package pdftex.def Info: img/ft_south_china_sea.png  used on input line 70.
 (pdftex.def)             Requested size: 259.35727pt x 211.85287pt.
 
-Overfull \vbox (6.53218pt too high) detected at line 67
+Overfull \vbox (6.53218pt too high) detected at line 70
  []
 
 
@@ -1403,50 +1403,28 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [14
 
 ]
-<img/why_russia.png, id=101, 597.23125pt x 160.6pt>
-File: img/why_russia.png Graphic file (type png)
-<use img/why_russia.png>
-Package pdftex.def Info: img/why_russia.png  used on input line 110.
-(pdftex.def)             Requested size: 324.19536pt x 87.1785pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [15
 
- <./img/why_russia.png>]
-<img/Jacques_Callot_hanging.jpeg, id=108, 5466.4225pt x 2387.92125pt>
-File: img/Jacques_Callot_hanging.jpeg Graphic file (type jpg)
-<use img/Jacques_Callot_hanging.jpeg>
-Package pdftex.def Info: img/Jacques_Callot_hanging.jpeg  used on input line 125.
-(pdftex.def)             Requested size: 324.19536pt x 141.593pt.
+]
+<img/cow.png, id=106, 1292.83pt x 810.02625pt>
+File: img/cow.png Graphic file (type png)
+<use img/cow.png>
+Package pdftex.def Info: img/cow.png  used on input line 111.
+(pdftex.def)             Requested size: 364.19936pt x 228.19011pt.
+ [16
 
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[16
-
- <./img/Jacques_Callot_hanging.jpeg>]
-<img/clausewitz.jpg, id=114, 508.90125pt x 728.7225pt>
-File: img/clausewitz.jpg Graphic file (type jpg)
-<use img/clausewitz.jpg>
-Package pdftex.def Info: img/clausewitz.jpg  used on input line 147.
-(pdftex.def)             Requested size: 96.28589pt x 137.86938pt.
-
+ <./img/cow.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [17
 
- <./img/clausewitz.jpg>]
-File: img/clausewitz.jpg Graphic file (type jpg)
-<use img/clausewitz.jpg>
-Package pdftex.def Info: img/clausewitz.jpg  used on input line 147.
-(pdftex.def)             Requested size: 96.28589pt x 137.86938pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1454,11 +1432,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [18
 
 ]
-File: img/clausewitz.jpg Graphic file (type jpg)
-<use img/clausewitz.jpg>
-Package pdftex.def Info: img/clausewitz.jpg  used on input line 147.
-(pdftex.def)             Requested size: 96.28589pt x 137.86938pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1473,20 +1446,37 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [20
 
 ]
+<img/Jacques_Callot_hanging.jpeg, id=136, 5466.4225pt x 2387.92125pt>
+File: img/Jacques_Callot_hanging.jpeg Graphic file (type jpg)
+<use img/Jacques_Callot_hanging.jpeg>
+Package pdftex.def Info: img/Jacques_Callot_hanging.jpeg  used on input line 172.
+(pdftex.def)             Requested size: 324.19536pt x 141.593pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [21
 
-]
+ <./img/Jacques_Callot_hanging.jpeg>]
+<img/clausewitz.jpg, id=142, 508.90125pt x 728.7225pt>
+File: img/clausewitz.jpg Graphic file (type jpg)
+<use img/clausewitz.jpg>
+Package pdftex.def Info: img/clausewitz.jpg  used on input line 194.
+(pdftex.def)             Requested size: 96.28589pt x 137.86938pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [22
 
-]
+ <./img/clausewitz.jpg>]
+File: img/clausewitz.jpg Graphic file (type jpg)
+<use img/clausewitz.jpg>
+Package pdftex.def Info: img/clausewitz.jpg  used on input line 194.
+(pdftex.def)             Requested size: 96.28589pt x 137.86938pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1515,24 +1505,13 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [26
 
 ]
-<img/waltz.jpg, id=168, 326.21875pt x 500.87125pt>
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [27
 
- <./img/waltz.jpg>]
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1540,11 +1519,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [28
 
 ]
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1552,11 +1526,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [29
 
 ]
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1564,11 +1533,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [30
 
 ]
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1576,11 +1540,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [31
 
 ]
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1588,11 +1547,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [32
 
 ]
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1600,10 +1554,25 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [33
 
 ]
-File: img/waltz.jpg Graphic file (type jpg)
-<use img/waltz.jpg>
-Package pdftex.def Info: img/waltz.jpg  used on input line 194.
-(pdftex.def)             Requested size: 81.6963pt x 125.43149pt.
+<img/forbes_why_not1.png, id=207, 631.35875pt x 276.03125pt>
+File: img/forbes_why_not1.png Graphic file (type png)
+<use img/forbes_why_not1.png>
+Package pdftex.def Info: img/forbes_why_not1.png  used on input line 271.
+(pdftex.def)             Requested size: 226.93576pt x 99.21532pt.
+<img/forbes_why_not2.png, id=208, 620.3175pt x 152.57pt>
+File: img/forbes_why_not2.png Graphic file (type png)
+<use img/forbes_why_not2.png>
+Package pdftex.def Info: img/forbes_why_not2.png  used on input line 271.
+(pdftex.def)             Requested size: 259.35727pt x 63.79028pt.
+<img/forbes_why_not3.png, id=209, 614.295pt x 153.57375pt>
+File: img/forbes_why_not3.png Graphic file (type png)
+<use img/forbes_why_not3.png>
+Package pdftex.def Info: img/forbes_why_not3.png  used on input line 271.
+(pdftex.def)             Requested size: 259.35727pt x 64.8403pt.
+
+Overfull \vbox (6.45525pt too high) detected at line 271
+ []
+
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1611,7 +1580,7 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [34
 
-]
+ <./img/forbes_why_not1.png> <./img/forbes_why_not2.png> <./img/forbes_why_not3.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1640,20 +1609,37 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [38
 
 ]
+<img/putin_historical_unity.png, id=239, 744.7825pt x 482.80376pt>
+File: img/putin_historical_unity.png Graphic file (type png)
+<use img/putin_historical_unity.png>
+Package pdftex.def Info: img/putin_historical_unity.png  used on input line 312.
+(pdftex.def)             Requested size: 324.19536pt x 210.16528pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [39
 
-]
+ <./img/putin_historical_unity.png>]
+<img/fearon_model.png, id=246, 946.53625pt x 385.44pt>
+File: img/fearon_model.png Graphic file (type png)
+<use img/fearon_model.png>
+Package pdftex.def Info: img/fearon_model.png  used on input line 327.
+(pdftex.def)             Requested size: 324.19536pt x 132.0124pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [40
 
-]
+ <./img/fearon_model.png>]
+File: img/fearon_model.png Graphic file (type png)
+<use img/fearon_model.png>
+Package pdftex.def Info: img/fearon_model.png  used on input line 327.
+(pdftex.def)             Requested size: 324.19536pt x 132.0124pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1661,6 +1647,32 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [41
 
 ]
+
+./interstate.tex:356: Package tikz Error: You need to load a decoration library.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+./interstate.tex:356: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1668,6 +1680,29 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [42
 
 ]
+
+./interstate.tex:356: Package tikz Error: You need to load a decoration library.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
+./interstate.tex:356: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1675,11 +1710,28 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [43
 
 ]
-<img/wwilson.png, id=258, 652.4375pt x 720.6925pt>
-File: img/wwilson.png Graphic file (type png)
-<use img/wwilson.png>
-Package pdftex.def Info: img/wwilson.png  used on input line 259.
-(pdftex.def)             Requested size: 162.09767pt x 179.051pt.
+
+./interstate.tex:356: Package tikz Error: You need to load a decoration library.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
+./interstate.tex:356: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1687,7 +1739,30 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [44
 
- <./img/wwilson.png>]
+]
+
+./interstate.tex:356: Package tikz Error: You need to load a decoration library.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
+./interstate.tex:356: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1695,6 +1770,29 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [45
 
 ]
+
+./interstate.tex:356: Package tikz Error: You need to load a decoration library.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
+./interstate.tex:356: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 \end{frame}
+                 
+(That was another \errmessage.)
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1702,6 +1800,29 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [46
 
 ]
+
+./interstate.tex:387: Package tikz Error: You need to load a decoration library.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387 \end{frame}
+                 
+(That was another \errmessage.)
+
+
+./interstate.tex:387: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387 \end{frame}
+                 
+(That was another \errmessage.)
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1709,13 +1830,19 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [47
 
 ]
+<img/ft_ukraine_map.png, id=292, 700.6175pt x 454.69875pt>
+File: img/ft_ukraine_map.png Graphic file (type png)
+<use img/ft_ukraine_map.png>
+Package pdftex.def Info: img/ft_ukraine_map.png  used on input line 397.
+(pdftex.def)             Requested size: 324.19536pt x 210.40588pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [48
 
-]
+ <./img/ft_ukraine_map.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1730,33 +1857,13 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [50
 
 ]
-<img/forbes_why_not1.png, id=297, 631.35875pt x 276.03125pt>
-File: img/forbes_why_not1.png Graphic file (type png)
-<use img/forbes_why_not1.png>
-Package pdftex.def Info: img/forbes_why_not1.png  used on input line 308.
-(pdftex.def)             Requested size: 226.93576pt x 99.21532pt.
-<img/forbes_why_not2.png, id=298, 620.3175pt x 152.57pt>
-File: img/forbes_why_not2.png Graphic file (type png)
-<use img/forbes_why_not2.png>
-Package pdftex.def Info: img/forbes_why_not2.png  used on input line 308.
-(pdftex.def)             Requested size: 259.35727pt x 63.79028pt.
-<img/forbes_why_not3.png, id=299, 614.295pt x 153.57375pt>
-File: img/forbes_why_not3.png Graphic file (type png)
-<use img/forbes_why_not3.png>
-Package pdftex.def Info: img/forbes_why_not3.png  used on input line 308.
-(pdftex.def)             Requested size: 259.35727pt x 64.8403pt.
-
-Overfull \vbox (6.45525pt too high) detected at line 308
- []
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [51
 
- <./img/forbes_why_not1.png> <./img/forbes_why_not2.png> <./img/forbes_why_not3.png>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1785,11 +1892,96 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [55
 
 ]
-<img/putin_historical_unity.png, id=329, 744.7825pt x 482.80376pt>
-File: img/putin_historical_unity.png Graphic file (type png)
-<use img/putin_historical_unity.png>
-Package pdftex.def Info: img/putin_historical_unity.png  used on input line 349.
-(pdftex.def)             Requested size: 324.19536pt x 210.16528pt.
+./interstate.tex:454: Argument of \frame has an extra }.
+<inserted text> 
+                \par 
+l.454 ...man's \textit{Thinking, Fast and Slow}?)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ \item <3-> Psychological processes involved in decision-making \begin \ETC.
+./interstate.tex:454: Paragraph ended before \frame was complete.
+<to be read again> 
+                   \par 
+l.454 ...man's \textit{Thinking, Fast and Slow}?)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./interstate.tex:454: Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.454 ...man's \textit{Thinking, Fast and Slow}?)}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./interstate.tex:455: Undefined control sequence.
+<argument> .../enumerate \beameritemnestingprefix 
+                                                  body end
+l.455   \end{itemize}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./interstate.tex:455: LaTeX Error: \begin{frame} on input line 440 ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.455   \end{itemize}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./interstate.tex:456: Undefined control sequence.
+<argument> .../enumerate \beameritemnestingprefix 
+                                                  body end
+l.456 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./interstate.tex:456: LaTeX Error: \begin{frame} on input line 440 ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.456 \end{itemize}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./interstate.tex:458: Too many }'s.
+\endframe ->\egroup 
+                    \begingroup \def \@currenvir {frame}
+l.458 \end{frame}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1797,25 +1989,14 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [56
 
- <./img/putin_historical_unity.png>]
-<img/fearon_model.png, id=336, 946.53625pt x 385.44pt>
-File: img/fearon_model.png Graphic file (type png)
-<use img/fearon_model.png>
-Package pdftex.def Info: img/fearon_model.png  used on input line 364.
-(pdftex.def)             Requested size: 324.19536pt x 132.0124pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [57
 
- <./img/fearon_model.png>]
-File: img/fearon_model.png Graphic file (type png)
-<use img/fearon_model.png>
-Package pdftex.def Info: img/fearon_model.png  used on input line 364.
-(pdftex.def)             Requested size: 324.19536pt x 132.0124pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1823,32 +2004,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [58
 
 ]
-
-./interstate.tex:393: Package tikz Error: You need to load a decoration library.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-
-./interstate.tex:393: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1856,29 +2011,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [59
 
 ]
-
-./interstate.tex:393: Package tikz Error: You need to load a decoration library.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-./interstate.tex:393: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1886,29 +2018,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [60
 
 ]
-
-./interstate.tex:393: Package tikz Error: You need to load a decoration library.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-./interstate.tex:393: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1916,29 +2025,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [61
 
 ]
-
-./interstate.tex:393: Package tikz Error: You need to load a decoration library.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-./interstate.tex:393: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1946,27 +2032,8 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [62
 
 ]
-
-./interstate.tex:393: Package tikz Error: You need to load a decoration library.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-./interstate.tex:393: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.393 \end{frame}
-                 
-(That was another \errmessage.)
+Overfull \vbox (5.8887pt too high) detected at line 543
+ []
 
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
@@ -1976,27 +2043,8 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [63
 
 ]
-
-./interstate.tex:424: Package tikz Error: You need to load a decoration library.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.424 \end{frame}
-                 
-(That was another \errmessage.)
-
-
-./interstate.tex:424: Package pgfkeys Error: I do not know the key '/tikz/decoration', to which you passed 'brace,amplitude=2pt', and I am going to ignore it. Perhaps you misspelled it.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.424 \end{frame}
-                 
-(That was another \errmessage.)
+Overfull \vbox (5.8887pt too high) detected at line 543
+ []
 
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
@@ -2006,11 +2054,9 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [64
 
 ]
-<img/ft_ukraine_map.png, id=382, 700.6175pt x 454.69875pt>
-File: img/ft_ukraine_map.png Graphic file (type png)
-<use img/ft_ukraine_map.png>
-Package pdftex.def Info: img/ft_ukraine_map.png  used on input line 434.
-(pdftex.def)             Requested size: 324.19536pt x 210.40588pt.
+Overfull \vbox (6.12184pt too high) detected at line 543
+ []
+
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2018,7 +2064,21 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [65
 
- <./img/ft_ukraine_map.png>]
+]
+Overfull \hbox (2.86693pt too wide) in paragraph at lines 543--543
+[][][][][][]| 
+ []
+
+
+Overfull \hbox (5.39995pt too wide) in paragraph at lines 543--543
+[]|[][][][][][] 
+ []
+
+
+Overfull \vbox (8.77354pt too high) detected at line 543
+ []
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2026,6 +2086,20 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [66
 
 ]
+Overfull \hbox (2.86693pt too wide) in paragraph at lines 543--543
+[][][][][][]| 
+ []
+
+
+Overfull \hbox (5.52167pt too wide) in paragraph at lines 543--543
+[]|[][][][][][]| 
+ []
+
+
+Overfull \vbox (5.8887pt too high) detected at line 543
+ []
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2061,203 +2135,17 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [71
 
 ]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[72
-
-]
-./interstate.tex:491: Argument of \frame has an extra }.
-<inserted text> 
-                \par 
-l.491 ...man's \textit{Thinking, Fast and Slow}?)}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
- \item <3-> Psychological processes involved in decision-making \begin \ETC.
-./interstate.tex:491: Paragraph ended before \frame was complete.
-<to be read again> 
-                   \par 
-l.491 ...man's \textit{Thinking, Fast and Slow}?)}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./interstate.tex:491: Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.491 ...man's \textit{Thinking, Fast and Slow}?)}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./interstate.tex:492: Undefined control sequence.
-<argument> .../enumerate \beameritemnestingprefix 
-                                                  body end
-l.492   \end{itemize}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./interstate.tex:492: LaTeX Error: \begin{frame} on input line 477 ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.492   \end{itemize}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./interstate.tex:493: Undefined control sequence.
-<argument> .../enumerate \beameritemnestingprefix 
-                                                  body end
-l.493 \end{itemize}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./interstate.tex:493: LaTeX Error: \begin{frame} on input line 477 ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.493 \end{itemize}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./interstate.tex:495: Too many }'s.
-\endframe ->\egroup 
-                    \begingroup \def \@currenvir {frame}
-l.495 \end{frame}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[73
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[74
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[75
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[76
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[77
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[78
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[79
-
-]
-Overfull \vbox (5.8887pt too high) detected at line 580
- []
-
-
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[80
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[81
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[82
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[83
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[84
-
-]
-<img/ny_taiwan.png, id=488, 1721.43124pt x 612.2875pt>
+<img/ny_taiwan.png, id=419, 1721.43124pt x 612.2875pt>
 File: img/ny_taiwan.png Graphic file (type png)
 <use img/ny_taiwan.png>
-Package pdftex.def Info: img/ny_taiwan.png  used on input line 617.
+Package pdftex.def Info: img/ny_taiwan.png  used on input line 580.
 (pdftex.def)             Requested size: 324.19536pt x 115.30812pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[85
+[72
 
  <./img/ny_taiwan.png>]
 \tf@nav=\write7
@@ -2277,18 +2165,18 @@ Package logreq Info: Writing requests to 'interstate.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32630 strings out of 478994
- 629177 string characters out of 5858184
- 1336929 words of memory out of 5000000
- 49267 multiletter control sequences out of 15000+600000
- 416549 words of font info for 73 fonts, out of 8000000 for 9000
+ 32617 strings out of 478994
+ 629288 string characters out of 5858184
+ 1337045 words of memory out of 5000000
+ 49281 multiletter control sequences out of 15000+600000
+ 417011 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,1135b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on interstate.pdf (85 pages, 11944991 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on interstate.pdf (72 pages, 8670875 bytes).
 PDF statistics:
- 573 PDF objects out of 1000 (max. 8388607)
- 437 compressed objects within 5 object streams
- 171 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 381 compressed objects within 4 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 

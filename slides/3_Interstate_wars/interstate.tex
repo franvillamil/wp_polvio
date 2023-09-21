@@ -8,6 +8,9 @@
 
 \input{../beamer_preamble.tex}
 
+\renewcommand<>{\BGyellow}[1]{\only#2{\beameroriginal{\BGyellow}}{#1}}
+\renewcommand<>{\BGred}[1]{\only#2{\beameroriginal{\BGred}}{#1}}
+\renewcommand<>{\BGasher}[1]{\only#2{\beameroriginal{\BGasher}}{#1}}
 
 \begin{document}
 
@@ -66,6 +69,24 @@
 
 \end{frame}
 
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Why is important to distinguish wars from `non-wars'?}
+\centering
+
+\begin{itemize}
+  \item Because we want to know how it relates to other situations, e.g.
+  \begin{itemize}
+    \item when do disputes escalate?
+    \item when do civil wars lead to an interstate conflict?
+    \item how frequent is unilateral aggression?
+  \end{itemize}
+  \item<2-> This has to do with the understanding of violence or aggression as a \textit{method} (not an end in itself) substituting for something else
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
 \begin{frame}
 \frametitle{Inter-state wars}
 \centering
@@ -73,9 +94,7 @@
 \begin{itemize}
 \item<1-> Sustained, military clash between two or more countries
   \begin{itemize}
-  \item Different from unilateral aggression
-  \item Different from disputes
-  \item[] (when do disputes \textit{escalate} into war?)
+  \item $\neq$ unilateral aggression, $\neq$ disputes
   \end{itemize}
 \item<2-> How do we measure them?
 \item<2->[] We usually employ intensity thresholds
@@ -89,12 +108,37 @@
 
 
 % ----------------------------------------------------
+\imageframe{img/cow}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
 \begin{frame}
-\frametitle{Understanding war}
+\frametitle{Measuring interstate war}
 \centering
 
-\begin{itemize}[<+->]
-  \item Why do wars break out?
+\begin{itemize}
+  \item Coding wars in the Correlates of War project (\url{https://correlatesofwar.org/})
+  \item ``sustained combat, involving organized armed forces, resulting in a minimum of 1,000 battle-related fatalities (later specified as 1,000 battle-related fatalities within a twelve month period)''
+  \item Differentiating interstate wars from other types of wars (extra-state, intra-state, non-state)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Correlates of War data project}
+\centering
+
+\begin{itemize}
+  \item COW War Data, 1816 – 2007
+  \item Militarized Interstate Disputes
+  \item National Material Capabilities
+  \item Militarized Interstate Dispute Locations
+  \item Others
+    \begin{itemize}
+      \item Alliances, Contiguity, Territorial change, Defense Cooperation Agreement, etc
+    \end{itemize}
 \end{itemize}
 
 \end{frame}
@@ -105,7 +149,10 @@
 \frametitle{Understanding war}
 \centering
 
-\includegraphics[width = \textwidth]{img/why_russia}
+\begin{itemize}[<+->]
+  \item Why do wars break out?
+  \item (We've seen the main IR theories, but neither they only cover wars nor wars are only explained by IR)
+\end{itemize}
 
 \end{frame}
 % ----------------------------------------------------
@@ -129,14 +176,14 @@
 \frametitle{Understanding war}
 \centering
 
-\uncover<2->{\begin{minipage}{0.66\textwidth}\centering
+\uncover<1->{\begin{minipage}{0.66\textwidth}\centering
 \begin{itemize}
 \item<1-> ``War is the continuation of politics by other means''
-\item<3-> Wars as a rational human phenomenon, against previous Enlightment view of war as a deviation
+\item<2-> Wars as a rational human phenomenon, against previous Enlightment view of war as a deviation
   \begin{itemize}
   \item Even in the 20th century, some still see it that way
   \end{itemize}
-\item<3-> Part of the realist tradition: Thucydides, Machiavelli, Hobbes, etc
+\item<2-> Part of the realist tradition: Thucydides, Machiavelli, Hobbes, etc
 \end{itemize}
 \end{minipage}}\hfill
 \uncover<1->{\begin{minipage}{0.33\textwidth}\centering
@@ -150,114 +197,30 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 \frametitle{Understanding war}
 \centering
 
-\begin{itemize}[<+->]
-\item Focus on the causes of war: why do wars break out? ($\neq$ termination, consequences, conduct of war ...)
-\item Main IR theories (or points of view)
-  \item[-] Realism
-  \item[-] Liberalism
-  \item[-] Constructivism
-\item But also: rationalism, psychological theories, Marxism, Feminism, ...
-\item Wars are multicausal events and disgreements are about which factor is most important (some people were wrong, though)
-\end{itemize}
-
-\end{frame}
-
-\begin{frame}
-\frametitle{Waltz's neorealism}
-\centering
-
-
-\begin{minipage}{0.71\textwidth}\centering
-\begin{itemize}[<+->]
-\item Understanding war through different levels of analyses (`images')
-\item First image: \textit{the man} (aka. individuals)
-  \begin{itemize}
-  \item Wars caused by the psychology of political leaders, or human nature (classical realism)
-  \end{itemize}
-\item Second image: \textit{the state}
-  \begin{itemize}
-  \item Wars caused by the internal structure of a state (back then, Marxism)
-  \end{itemize}
-\item \textbf{Third image:} \textbf{the international system}
-  \begin{itemize}
-  \item War explained by the relationships between states: international anarchy
-  \item Hobbesian view of the international system: no law, no constraints, no ``automatic harmony''
-  \end{itemize}
-% \item As a realist, he thought that the third image was the most influential one
-\end{itemize}
-\end{minipage}\hfill
-\begin{minipage}{0.28\textwidth}\centering
-\frame{\includegraphics[width = 0.9\textwidth]{img/waltz}}\\
-{\small Kenneth Waltz (1957)}
-\end{minipage}
-
-\end{frame}
-
-\begin{frame}
-\frametitle{Realism}
-\centering
-
 \begin{itemize}
-% \item<1-> Waltz thought the third image is the most important one
-%   \begin{itemize}
-%   \item<1-> He was one of the founders of neorealism. Difference with classical realism? Emphasis on the international system
-%   \end{itemize}
-\item<1-> Basic ideas behind realism:
-  \begin{itemize}
-  \item Main actors in world politics: sovereign states
-  \item Context: international anarchy
-  \item Goal of each state: security, power, wealth
-  \end{itemize}
-\item<2-> This perspective understands that war is explained by the \textit{distribution of power} at the international level
-\item<3-> Wars break out because of predatory dynamics, conflict spirals (e.g. security dilemma), or pure preventive wars
-\item<4-> `Defensive' (security) and `offensive' (power) realists
-\end{itemize}
-
-\end{frame}
-
-\begin{frame}
-\frametitle{Two groups of realist theories}
-\centering
-
+\item Focus on the causes of war: why do wars break out?
 \begin{itemize}
-\item<1> Balance of power
+  \item[] ($\neq$ termination, consequences, conduct of war ...)
+\end{itemize}
+\item IR perspectives: realism, liberalism, constructivism
+\item<2-> Main realist theories:
   \begin{itemize}
-  \item States' aim in the international arena (alliances, etc)
-  \item Works automatically: creating wars, deterring, etc
-  \end{itemize}
-\item<2> International hegemony
-  \begin{itemize}
-  \item Not really -- alliances are war-prone
-  \item If there's anarchy, we need a Leviathan that polices the system
-  \item Be careful when hegemony switches (e.g. China)
+    \item \textbf{Balance of power works}: states pursue it internationally, (small) wars avoid larger ones, it deters aggression, etc
+    \item<3-> \textbf{International hegemony}: no, alliances are actually war-prone -- given international anarchy, we need a Leviathan
+    \item<3->[] (be careful when hegemony switches, though)
   \end{itemize}
 \end{itemize}
 
 \end{frame}
 
-% ----------------------------------------------------
 \begin{frame}
-\frametitle{Liberalism}
+\frametitle{Liberal theories}
 \centering
 
-\begin{itemize}[<+->]
-  \item It's not about the game, it's about the players
-  \item Liberals do not accept the pessimism of realism: the international arena is not so Hobbesian, and states are able to cooperate and not fight each other constantly, etc
-  \item Institutional liberalism: we need to foster cooperation through \textit{international organizations} and \textit{regime type} (or regime change)
-\end{itemize}
+
 
 \end{frame}
-% ----------------------------------------------------
 
-% ----------------------------------------------------
-\begin{frame}
-\frametitle{Liberalism}
-\centering
-
-\includegraphics[width = 0.5\textwidth]{img/wwilson}
-
-\end{frame}
-% ----------------------------------------------------
 
 \begin{frame}
 \frametitle{Liberal theories: the democratic peace}
@@ -572,9 +535,9 @@ Carl von Clausewitz\\{\small (\textit{On war}, 1832)}
 \centering
 
 \begin{tabular}{m{1.75cm}|m{4cm}m{4cm}}
-& {\color{gray}{\footnotesize Target:}} \newline State & {\color{gray}{\footnotesize Target:}} \newline Non-State \\\hline\\
-{\color{gray}{\footnotesize Perpetrator:}} \newline State & Interstate war & State repression \newline Genocide \newline Ethnic cleansing \\\\
-{\color{gray}{\footnotesize Perpetrator:}} \newline Non-State & Organized crime \newline Mass protests (rebellion) \newline Military coup \newline Political assassination* \newline Civil War \newline Terrorism & Intercommunal violence\\\\\hline
+& {\color{gray}{\footnotesize Target:}} \newline \BGasher<2,4>{State} & {\color{gray}{\footnotesize Target:}} \newline \BGasher<3,5>{Non-State} \\\hline\\
+{\color{gray}{\footnotesize Perpetrator:}} \newline \BGasher<2-3>{State} & \BGyellow<2>{Interstate war} & \BGyellow<3>{State repression} \newline \BGyellow<3>{Genocide} \newline \BGyellow<3>{Ethnic cleansing} \\\\
+{\color{gray}{\footnotesize Perpetrator:}} \newline \BGasher<4-5>{Non-State} & \BGyellow<4>{Mass protests (rebellion)} \newline \BGyellow<4>{Military coup} \newline \BGyellow<4>{Political assassination*} \newline \BGyellow<4>{Civil War} \newline \BGyellow<4>{Terrorism} \newline \BGyellow<4>{(Organized crime)} & \BGyellow<5>{Intercommunal violence*}\\\\\hline
 \end{tabular}
 
 \end{frame}
