@@ -1,5 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is 'war_history.blg'
-[98] biber-darwin:322> INFO - === Wed Sep 27, 2023, 22:38:58
-[116] Biber.pm:415> INFO - Reading 'war_history.bcf'
-[218] Utils.pm:304> WARN - No data sources defined!
