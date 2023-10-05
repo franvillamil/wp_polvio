@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  5 OCT 2023 13:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  5 OCT 2023 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1655,34 +1655,48 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [36
 
  <./img/colombia_duration.png>]
-<img/balcells_kalyvas_duration.png, id=240, 678.535pt x 496.85625pt>
-File: img/balcells_kalyvas_duration.png Graphic file (type png)
-<use img/balcells_kalyvas_duration.png>
-Package pdftex.def Info: img/balcells_kalyvas_duration.png  used on input line 560.
-(pdftex.def)             Requested size: 259.35727pt x 189.91422pt.
-
-Overfull \vbox (2.29265pt too high) detected at line 560
- []
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [37
 
- <./img/balcells_kalyvas_duration.png>]
-<img/gopal.png, id=249, 442.65375pt x 685.56125pt>
-File: img/gopal.png Graphic file (type png)
-<use img/gopal.png>
-Package pdftex.def Info: img/gopal.png  used on input line 579.
-(pdftex.def)             Requested size: 142.64674pt x 220.92181pt.
+]
+<img/balcells_kalyvas_duration.png, id=246, 678.535pt x 496.85625pt>
+File: img/balcells_kalyvas_duration.png Graphic file (type png)
+<use img/balcells_kalyvas_duration.png>
+Package pdftex.def Info: img/balcells_kalyvas_duration.png  used on input line 577.
+(pdftex.def)             Requested size: 259.35727pt x 189.91422pt.
+
+Overfull \vbox (2.29265pt too high) detected at line 577
+ []
+
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [38
+
+ <./img/balcells_kalyvas_duration.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[39
+
+]
+<img/gopal.png, id=259, 442.65375pt x 685.56125pt>
+File: img/gopal.png Graphic file (type png)
+<use img/gopal.png>
+Package pdftex.def Info: img/gopal.png  used on input line 610.
+(pdftex.def)             Requested size: 142.64674pt x 220.92181pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[40
 
  <./img/gopal.png>]
 \tf@nav=\write7
@@ -1702,18 +1716,18 @@ Package logreq Info: Writing requests to 'civil_wars2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32528 strings out of 478994
- 628137 string characters out of 5858184
+ 32536 strings out of 478994
+ 628209 string characters out of 5858184
  1333951 words of memory out of 5000000
- 49253 multiletter control sequences out of 15000+600000
- 416782 words of font info for 74 fonts, out of 8000000 for 9000
+ 49257 multiletter control sequences out of 15000+600000
+ 416717 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,1136b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on civil_wars2.pdf (38 pages, 10101297 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on civil_wars2.pdf (40 pages, 10104191 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 221 compressed objects within 3 object streams
- 77 named destinations out of 1000 (max. 500000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
  143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
