@@ -1,0 +1,5 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'postwar.blg'
+[58] biber-darwin:340> INFO - === Thu Oct  5, 2023, 13:22:15
+[69] Biber.pm:415> INFO - Reading 'postwar.bcf'
+[148] Utils.pm:395> WARN - No data sources defined!
