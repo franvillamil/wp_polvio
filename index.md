@@ -4,7 +4,7 @@ layout: default
 
 ## Schedule Fall 2023
 
-| Date        | Topic  | Slides | Seminar<br />reading |
+| Date        | Topic  | Slides | Seminar reading |
 | :---        | :---   | :--- | :--- |
 | Sept 7-8    | Introduction | [[PDF](./slides/1_introduction/introduction.pdf)] ||
 | Sept 14-15  | Basics of IR | [[PDF](./slides/2_IR/IR_intro.pdf)] | [[url1](https://iai.tv/articles/how-we-got-putin-so-wrong-auid-2063), [url2](https://www.theatlantic.com/ideas/archive/2023/03/russia-ukraine-war-pundits-history-international-relations/673293/)] |

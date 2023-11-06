@@ -6,19 +6,19 @@ layout: default
 
 ### Introduction to IR
 
-- Stephen M. Walt, `[International Relations: One World, Many Theories.}' \textit{Foreign Policy](https://doi.org/10.2307/1149275) 110: 29--32, 34--46, 1998.
+- Stephen M. Walt, [International Relations: One World, Many Theories](https://doi.org/10.2307/1149275). *Foreign Policy* 110: 29-46.
 
 ### Interstate war
 
-% - Chapter 1 in Kalevi J Holsti, [*Peace and War: Armed Conflicts and International Order, 1648-1989.*](https://doi.org/10.1017/CBO9780511628290) Cambridge University Press, 1991: pp. 1--24.
-- Jack S. Levy, `Interstate war and peace.' In [Handbook of International Relations](https://uk.sagepub.com/en-gb/eur/handbook-of-international-relations/book234093), 2013, pp. 581--606.
+- Chapter 1 in Kalevi J Holsti (1991) [*Peace and War: Armed Conflicts and International Order, 1648-1989*](https://doi.org/10.1017/CBO9780511628290). Cambridge University Press.
+- Jack S. Levy (2013) Interstate war and peace. In [Handbook of International Relations](https://uk.sagepub.com/en-gb/eur/handbook-of-international-relations/book234093).
 
 
 ### War throughout history
 
-- Chapter 1 in Charles Tilly, [*Coercion, capital, and European states, AD 990-1992*](https://www.wiley.com/en-us/Coercion%2C+Capital+and+European+States%2C+A+D+990+1992-p-9781557863683). Wiley-Blackwell, 1993: pp. 1--37.
-- Andreas Wimmer and Brian Min, `[From empire to nation-state: Explaining wars in the modern world, 1816-2001}.' \textit{American Sociological Review](https://doi.org/10.1177/000312240607100601) 71: 867--897, 2006.
-- Lars-Erik Cederman, T. Camber Warren & Didier Sornette, ‘Testing Clausewitz: Nationalism, Mass Mobilization, and the Severity of War.’ International Organization 65(4): 605–638, 2011.
+- Chapter 1 in Charles Tilly (1993) [*Coercion, capital, and European states, AD 990-1992*](https://www.wiley.com/en-us/Coercion%2C+Capital+and+European+States%2C+A+D+990+1992-p-9781557863683). Wiley-Blackwell.
+- Andreas Wimmer and Brian Min (2006) [From empire to nation-state: Explaining wars in the modern world, 1816-2001](https://doi.org/10.1177/000312240607100601). *American Sociological Review* 71: 867--897.
+- Lars-Erik Cederman, T. Camber Warren & Didier Sornette (2011) [Testing Clausewitz: Nationalism, Mass Mobilization, and the Severity of War](https://doi.org/10.1017/S0020818311000245). International Organization 65(4): 605–638.
 
 ### Civil wars
 
@@ -32,7 +32,7 @@ layout: default
 
 ### Non-state armed actors
 
-- Chapter 1 ('Introduction') in Ana Arjona, Nelson Kasfir, and Zachariah Mampilly (2015) [*Rebel governance in civil war*](https://doi.org/10.1017/CBO9781316182468). Cambridge University Press.
+- Chapter 1 in Ana Arjona, Nelson Kasfir, and Zachariah Mampilly (2015) [*Rebel governance in civil war*](https://doi.org/10.1017/CBO9781316182468). Cambridge University Press.
 
 ### Terrorism
 
@@ -49,4 +49,4 @@ layout: default
 
 ### Legacies and consequences
 
-- Jacob Walden and Yuri M. Zhukov (2020) [Historical legacies of political violence](https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1788). In *Oxford Research Encyclopedia of Politics*, 2020. ([Available here](https://zhukovyuri.github.io/files/2020_WZ_OEP.pdf).)
+- Jacob Walden and Yuri M. Zhukov (2020) [Historical legacies of political violence](https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1788). In *Oxford Research Encyclopedia of Politics*, 2020. [[Available here](https://zhukovyuri.github.io/files/2020_WZ_OEP.pdf).]
