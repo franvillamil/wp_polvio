@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  5 OCT 2023 13:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  15 NOV 2023 16:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1266,13 +1266,13 @@ Overfull \hbox (2.12503pt too wide) in paragraph at lines 11--11
  []
 
 
-./postwar.tex:15: LaTeX Error: There's no line here to end.
+./postwar.tex:16: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 \end{frame}
+l.16 \end{frame}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1286,6 +1286,824 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 31.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[2
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[3
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[4
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[5
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[6
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[7
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[8
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[9
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[10
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[11
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[12
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[13
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[14
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[15
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[16
+
+]
+<img/balcells_kalyvas_duration.png, id=103, 678.535pt x 496.85625pt>
+File: img/balcells_kalyvas_duration.png Graphic file (type png)
+<use img/balcells_kalyvas_duration.png>
+Package pdftex.def Info: img/balcells_kalyvas_duration.png  used on input line 86.
+(pdftex.def)             Requested size: 243.14651pt x 178.04173pt.
+
+Overfull \vbox (6.61096pt too high) detected at line 86
+ []
+
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[17
+
+ <./img/balcells_kalyvas_duration.png>]
+File: img/balcells_kalyvas_duration.png Graphic file (type png)
+<use img/balcells_kalyvas_duration.png>
+Package pdftex.def Info: img/balcells_kalyvas_duration.png  used on input line 86.
+(pdftex.def)             Requested size: 243.14651pt x 178.04173pt.
+
+Overfull \vbox (6.61096pt too high) detected at line 86
+ []
+
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[18
+
+]
+<img/ftfarc.png, id=116, 724.7075pt x 651.43375pt>
+File: img/ftfarc.png Graphic file (type png)
+<use img/ftfarc.png>
+Package pdftex.def Info: img/ftfarc.png  used on input line 90.
+(pdftex.def)             Requested size: 303.87746pt x 273.153pt.
+ [19
+
+ <./img/ftfarc.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[20
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[21
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[22
+
+]
+<img/cw_ends_hartzell.pdf, id=139, 433.62pt x 289.08pt>
+File: img/cw_ends_hartzell.pdf Graphic file (type pdf)
+<use img/cw_ends_hartzell.pdf>
+Package pdftex.def Info: img/cw_ends_hartzell.pdf  used on input line 108.
+(pdftex.def)             Requested size: 364.21185pt x 242.80789pt.
+ [23
+
+ <./img/cw_ends_hartzell.pdf>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[24
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[25
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[26
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[27
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[28
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[29
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[30
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[31
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[32
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[33
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[34
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[35
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[36
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[37
+
+]
+<img/UN_PK_troops_1947_2014.png, id=225, 3412.75pt x 2409.0pt>
+File: img/UN_PK_troops_1947_2014.png Graphic file (type png)
+<use img/UN_PK_troops_1947_2014.png>
+Package pdftex.def Info: img/UN_PK_troops_1947_2014.png  used on input line 186.
+(pdftex.def)             Requested size: 364.15561pt x 257.05103pt.
+ [38
+
+ <./img/UN_PK_troops_1947_2014.png>]
+<img/srebrenica-dutch-peacekeepers.jpg, id=232, 652.4375pt x 331.2375pt>
+File: img/srebrenica-dutch-peacekeepers.jpg Graphic file (type jpg)
+<use img/srebrenica-dutch-peacekeepers.jpg>
+Package pdftex.def Info: img/srebrenica-dutch-peacekeepers.jpg  used on input line 204.
+(pdftex.def)             Requested size: 259.35727pt x 131.67891pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[39
+
+ <./img/srebrenica-dutch-peacekeepers.jpg>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[40
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[41
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[42
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[43
+
+]
+<img/why-pk-fails.jpg, id=260, 224.7597pt x 343.2825pt>
+File: img/why-pk-fails.jpg Graphic file (type jpg)
+<use img/why-pk-fails.jpg>
+Package pdftex.def Info: img/why-pk-fails.jpg  used on input line 236.
+(pdftex.def)             Requested size: 127.08647pt x 194.10162pt.
+<img/pk-fiascoes.jpg, id=261, 859.21pt x 1365.1pt>
+File: img/pk-fiascoes.jpg Graphic file (type jpg)
+<use img/pk-fiascoes.jpg>
+Package pdftex.def Info: img/pk-fiascoes.jpg  used on input line 236.
+(pdftex.def)             Requested size: 127.08647pt x 201.9025pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[44
+
+ <./img/why-pk-fails.jpg> <./img/pk-fiascoes.jpg>]
+<img/luttwak.png, id=267, 528.97626pt x 389.455pt>
+File: img/luttwak.png Graphic file (type png)
+<use img/luttwak.png>
+Package pdftex.def Info: img/luttwak.png  used on input line 240.
+(pdftex.def)             Requested size: 364.19493pt x 268.13591pt.
+ [45
+
+ <./img/luttwak.png>]
+<img/UN_PK_troops_1990_2014.png, id=274, 3412.75pt x 2409.0pt>
+File: img/UN_PK_troops_1990_2014.png Graphic file (type png)
+<use img/UN_PK_troops_1990_2014.png>
+Package pdftex.def Info: img/UN_PK_troops_1990_2014.png  used on input line 245.
+(pdftex.def)             Requested size: 364.15561pt x 257.05103pt.
+ [46
+
+ <./img/UN_PK_troops_1990_2014.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[47
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[48
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[49
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[50
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[51
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[52
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[53
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[54
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[55
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[56
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[57
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[58
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[59
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[60
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[61
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[62
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[63
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[64
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[65
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[66
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[67
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[68
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[69
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[70
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[71
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[72
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[73
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[74
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[75
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[76
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[77
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[78
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[79
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[80
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[81
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[82
+
+]
+<img/southsudan1.png, id=469, 736.7525pt x 703.62875pt>
+File: img/southsudan1.png Graphic file (type png)
+<use img/southsudan1.png>
+Package pdftex.def Info: img/southsudan1.png  used on input line 386.
+(pdftex.def)             Requested size: 286.00577pt x 273.1472pt.
+ [83
+
+ <./img/southsudan1.png>]
+<img/southsudan2.png, id=476, 928.46875pt x 559.08875pt>
+File: img/southsudan2.png Graphic file (type png)
+<use img/southsudan2.png>
+Package pdftex.def Info: img/southsudan2.png  used on input line 390.
+(pdftex.def)             Requested size: 364.19812pt x 219.30632pt.
+ [84
+
+ <./img/southsudan2.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[85
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[86
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[87
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[88
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[89
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[90
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[91
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[92
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[93
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[94
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[95
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[96
+
+]
+<img/moro_map.png, id=545, 1244.65pt x 1630.09pt>
+File: img/moro_map.png Graphic file (type png)
+<use img/moro_map.png>
+Package pdftex.def Info: img/moro_map.png  used on input line 433.
+(pdftex.def)             Requested size: 208.54901pt x 273.13193pt.
+ [97
+
+ <./img/moro_map.png>]
+<img/moro_fighters.png, id=553, 493.845pt x 549.05125pt>
+File: img/moro_fighters.png Graphic file (type png)
+<use img/moro_fighters.png>
+Package pdftex.def Info: img/moro_fighters.png  used on input line 454.
+(pdftex.def)             Requested size: 155.61594pt x 173.0107pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[98
+
+ <./img/moro_fighters.png>]
+<img/moro1996.jpeg, id=560, 803.0pt x 459.7175pt>
+File: img/moro1996.jpeg Graphic file (type jpg)
+<use img/moro1996.jpeg>
+Package pdftex.def Info: img/moro1996.jpeg  used on input line 464.
+(pdftex.def)             Requested size: 324.19536pt x 185.60234pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[99
+
+ <./img/moro1996.jpeg>]
+<img/milf_uppsala.png, id=567, 1206.5075pt x 640.3925pt>
+File: img/milf_uppsala.png Graphic file (type png)
+<use img/milf_uppsala.png>
+Package pdftex.def Info: img/milf_uppsala.png  used on input line 478.
+(pdftex.def)             Requested size: 324.19536pt x 172.0777pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[100
+
+ <./img/milf_uppsala.png>]
+<img/moro_epr.png, id=574, 809.0225pt x 606.265pt>
+File: img/moro_epr.png Graphic file (type png)
+<use img/moro_epr.png>
+Package pdftex.def Info: img/moro_epr.png  used on input line 488.
+(pdftex.def)             Requested size: 324.19536pt x 242.94574pt.
+
+Overfull \vbox (19.55508pt too high) detected at line 488
+ []
+
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[101
+
+ <./img/moro_epr.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[102
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[103
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[104
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[105
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[106
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[107
+
+]
 \tf@nav=\write7
 \openout7 = `postwar.nav'.
 
@@ -1303,18 +2121,18 @@ Package logreq Info: Writing requests to 'postwar.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32074 strings out of 478994
- 619314 string characters out of 5858184
- 1328265 words of memory out of 5000000
- 48910 multiletter control sequences out of 15000+600000
- 410201 words of font info for 52 fonts, out of 8000000 for 9000
+ 32680 strings out of 478994
+ 629869 string characters out of 5858184
+ 1333657 words of memory out of 5000000
+ 49273 multiletter control sequences out of 15000+600000
+ 415889 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,1132b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on postwar.pdf (1 page, 28727 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on postwar.pdf (107 pages, 3334879 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 690 PDF objects out of 1000 (max. 8388607)
+ 532 compressed objects within 6 object streams
+ 215 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
