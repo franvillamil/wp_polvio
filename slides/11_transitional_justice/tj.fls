@@ -470,6 +470,14 @@ INPUT ./img/argentina1985b.jpeg
 INPUT img/praljak.png
 INPUT ./img/praljak.png
 INPUT ./img/praljak.png
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT img/snyder2022.jpeg
+INPUT ./img/snyder2022.jpeg
+INPUT ./img/snyder2022.jpeg
+INPUT img/snyder2022.jpeg
+INPUT ./img/snyder2022.jpeg
+INPUT img/snyder2022.jpeg
+INPUT ./img/snyder2022.jpeg
 OUTPUT tj.nav
 OUTPUT tj.toc
 OUTPUT tj.snm
@@ -483,5 +491,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.p
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb

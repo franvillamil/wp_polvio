@@ -54,8 +54,24 @@
 \headcommand {\slideentry {0}{0}{14}{23/23}{}{0}}
 \defcounter {refsection}{0}\relax 
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\beamer@partpages {1}{23}}
-\headcommand {\beamer@subsectionpages {1}{23}}
-\headcommand {\beamer@sectionpages {1}{23}}
-\headcommand {\beamer@documentpages {23}}
-\headcommand {\gdef \inserttotalframenumber {14}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {0}{0}{15}{24/29}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {24}{29}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {0}{0}{16}{30/32}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {30}{32}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {0}{0}{17}{33/37}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {33}{37}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\slideentry {0}{0}{18}{38/38}{}{0}}
+\defcounter {refsection}{0}\relax 
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@partpages {1}{38}}
+\headcommand {\beamer@subsectionpages {1}{38}}
+\headcommand {\beamer@sectionpages {1}{38}}
+\headcommand {\beamer@documentpages {38}}
+\headcommand {\gdef \inserttotalframenumber {18}}
