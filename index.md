@@ -20,6 +20,4 @@ layout: default
 | Nov 23-24   | Transitional Justice | [[PDF](./slides/11_transitional_justice/tj.pdf)] | [[url](https://www.newyorker.com/magazine/2022/08/08/the-prosecution-of-russian-war-crimes-in-ukraine)] |
 | Nov 30-31   | Legacies and consequences of war | [[PDF](./slides/12_legacies/legacies.pdf)] | [[url](https://www.newyorker.com/magazine/2017/12/04/the-fight-over-virginias-confederate-monuments)] |
 | Dec 7-8     | *No class* |||
-| Dec 14   | Wrap-up and extra presentations         |||
-
-<!-- [[PDF](./slides/13_wrap/wrap_up.pdf)] -->
+| Dec 14   | Wrap-up         | [[PDF](./slides/13_wrap/wrap_up.pdf)] ||
