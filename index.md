@@ -13,10 +13,10 @@ layout: default
 | Oct 10-11  | Civil wars I | <!-- [[PDF](./slides/5_civil_wars1/civil_wars1.pdf)] --> | <!-- [[url](https://www.theatlantic.com/magazine/archive/1994/02/the-coming-anarchy/304670/)] --> |
 | Oct 17-18  | Civil wars II | <!-- [[PDF](./slides/6_civil_wars2/civil_wars2.pdf)] --> | <!-- [[url](https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women)] --> | 
 | Oct 24-25  | Wartime violence | <!-- [[PDF](./slides/7_wartime_violence/violence.pdf)] --> | <!-- [[url](https://www.newyorker.com/magazine/2023/02/06/the-hunt-for-russian-collaborators-in-ukraine)] --> | 
-| Oct 31  | Presentations (1) |||
+| Oct 31  | Students' presentations (1) |||
 | Nov 7-8  | Non-state armed actors and civilians | <!-- [[PDF](./slides/8_rebels/rebels.pdf)] --> | <!-- [[url](https://americanaffairsjournal.org/2024/05/the-bukele-model-and-the-future-of-el-salvador/)] --> |
 | Nov 14-15  | Terrorism | <!-- [[PDF](./slides/9_terrorism/terrorism.pdf)] --> | <!-- [[url](https://www.newyorker.com/magazine/2006/09/11/the-master-plan)] --> |
 | Nov 21-22  | Postwar politics and TJ | <!-- [[PDF](./slides/10_postwar_politics/postwar.pdf)] --> | <!-- [[url](https://www.newyorker.com/magazine/2022/08/08/the-prosecution-of-russian-war-crimes-in-ukraine)] --> | 
 | Dec 28-29 | Legacies of war | <!-- [[PDF](./slides/12_legacies/legacies.pdf)] --> | <!-- [[url](https://www.newyorker.com/magazine/2017/12/04/the-fight-over-virginias-confederate-monuments)] --> |
-| Dec 5  | Presentations (2) |||
+| Dec 5  | Students' presentations (2) |||
 | Dec 12-13   | Wrap-up & extra presentations | <!-- [[PDF](./slides/13_wrap/wrap_up.pdf)] --> ||
