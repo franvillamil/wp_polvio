@@ -11,7 +11,7 @@ layout: default
 | Date        | Topic  | Slides | Seminar reading |
 | :---        | :---   | :--- | :--- |
 | Sept 12-13    | *NO CLASS* |||
-| Sept 19-20    | Introduction | <!-- [[PDF](./slides/1_introduction/introduction.pdf)] --> ||
+| Sept 19-20    | Introduction | [[PDF](./slides/1_introduction/introduction.pdf)] ||
 | Sept 26-27  | IR basics and interstate war | <!-- [[PDF](./slides/2_IR/IR_intro.pdf)] --> | [[url](https://www.foreignaffairs.com/israel/israels-next-war-hezbollah-lebanon)] |
 | Oct 3-4  | War throughout history | <!-- [[PDF](./slides/4_war_history/war_history.pdf)] --> | [[url](https://www.ft.com/content/9ab50dee-67f5-4e1b-8456-d8f11814ef18)] |
 | Oct 10-11  | Civil wars I | <!-- [[PDF](./slides/5_civil_wars1/civil_wars1.pdf)] --> | [[url](https://www.theatlantic.com/magazine/archive/1994/02/the-coming-anarchy/304670/)] |
