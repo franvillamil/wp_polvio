@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  10 OCT 2024 14:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  10 OCT 2024 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1530,24 +1530,25 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<img/amecw.png, id=22, 1217.54875pt x 684.5575pt>
-File: img/amecw.png Graphic file (type png)
-<use img/amecw.png>
-Package pdftex.def Info: img/amecw.png  used on input line 27.
-(pdftex.def)             Requested size: 324.19536pt x 182.27385pt.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 32.
 
+(/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [2
 
- <./img/amecw.png>]
-<img/liberia.jpeg, id=31, 903.375pt x 385.44pt>
-File: img/liberia.jpeg Graphic file (type jpg)
-<use img/liberia.jpeg>
-Package pdftex.def Info: img/liberia.jpeg  used on input line 39.
-(pdftex.def)             Requested size: 324.19536pt x 138.32307pt.
+]
+<img/amecw.png, id=30, 1217.54875pt x 684.5575pt>
+File: img/amecw.png Graphic file (type png)
+<use img/amecw.png>
+Package pdftex.def Info: img/amecw.png  used on input line 46.
+(pdftex.def)             Requested size: 324.19536pt x 182.27385pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1555,53 +1556,41 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [3
 
- <./img/liberia.jpeg>]
-<img/liberia_terr_control.png, id=37, 853.1875pt x 1143.27126pt>
-File: img/liberia_terr_control.png Graphic file (type png)
-<use img/liberia_terr_control.png>
-Package pdftex.def Info: img/liberia_terr_control.png  used on input line 43.
-(pdftex.def)             Requested size: 203.83185pt x 273.13467pt.
- [4
-
- <./img/liberia_terr_control.png>]
-<img/spain_terr_control.png, id=44, 1284.8pt x 1109.14375pt>
-File: img/spain_terr_control.png Graphic file (type png)
-<use img/spain_terr_control.png>
-Package pdftex.def Info: img/spain_terr_control.png  used on input line 47.
-(pdftex.def)             Requested size: 316.39612pt x 273.13884pt.
- [5
-
- <./img/spain_terr_control.png>]
-<img/troubles.jpeg, id=50, 433.62pt x 251.4996pt>
-File: img/troubles.jpeg Graphic file (type jpg)
-<use img/troubles.jpeg>
-Package pdftex.def Info: img/troubles.jpeg  used on input line 60.
-(pdftex.def)             Requested size: 324.19536pt x 188.04091pt.
+ <./img/amecw.png>]
+<img/liberia.jpeg, id=38, 903.375pt x 385.44pt>
+File: img/liberia.jpeg Graphic file (type jpg)
+<use img/liberia.jpeg>
+Package pdftex.def Info: img/liberia.jpeg  used on input line 58.
+(pdftex.def)             Requested size: 324.19536pt x 138.32307pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[6
+[4
 
- <./img/troubles.jpeg>]
-<img/tigers.png, id=56, 532.99126pt x 580.1675pt>
-File: img/tigers.png Graphic file (type png)
-<use img/tigers.png>
-Package pdftex.def Info: img/tigers.png  used on input line 77.
-(pdftex.def)             Requested size: 158.8575pt x 172.91844pt.
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 77.
+ <./img/liberia.jpeg>]
+<img/liberia_terr_control.png, id=44, 853.1875pt x 1143.27126pt>
+File: img/liberia_terr_control.png Graphic file (type png)
+<use img/liberia_terr_control.png>
+Package pdftex.def Info: img/liberia_terr_control.png  used on input line 62.
+(pdftex.def)             Requested size: 203.83185pt x 273.13467pt.
+ [5
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-<img/tigersnavy.png, id=57, 772.8875pt x 550.055pt>
-File: img/tigersnavy.png Graphic file (type png)
-<use img/tigersnavy.png>
-Package pdftex.def Info: img/tigersnavy.png  used on input line 77.
-(pdftex.def)             Requested size: 158.8575pt x 113.05576pt.
+ <./img/liberia_terr_control.png>]
+<img/spain_terr_control.png, id=51, 1284.8pt x 1109.14375pt>
+File: img/spain_terr_control.png Graphic file (type png)
+<use img/spain_terr_control.png>
+Package pdftex.def Info: img/spain_terr_control.png  used on input line 66.
+(pdftex.def)             Requested size: 316.39612pt x 273.13884pt.
+ [6
+
+ <./img/spain_terr_control.png>]
+<img/troubles.jpeg, id=57, 433.62pt x 251.4996pt>
+File: img/troubles.jpeg Graphic file (type jpg)
+<use img/troubles.jpeg>
+Package pdftex.def Info: img/troubles.jpeg  used on input line 79.
+(pdftex.def)             Requested size: 324.19536pt x 188.04091pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1609,17 +1598,17 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [7
 
- <./img/tigers.png> <./img/tigersnavy.png>]
-<img/naga1.png, id=66, 804.00375pt x 647.41875pt>
-File: img/naga1.png Graphic file (type png)
-<use img/naga1.png>
-Package pdftex.def Info: img/naga1.png  used on input line 94.
-(pdftex.def)             Requested size: 158.8575pt x 127.91072pt.
-<img/naga2.png, id=67, 477.785pt x 579.16376pt>
-File: img/naga2.png Graphic file (type png)
-<use img/naga2.png>
-Package pdftex.def Info: img/naga2.png  used on input line 94.
-(pdftex.def)             Requested size: 158.8575pt x 192.56511pt.
+ <./img/troubles.jpeg>]
+<img/tigers.png, id=64, 532.99126pt x 580.1675pt>
+File: img/tigers.png Graphic file (type png)
+<use img/tigers.png>
+Package pdftex.def Info: img/tigers.png  used on input line 96.
+(pdftex.def)             Requested size: 158.8575pt x 172.91844pt.
+<img/tigersnavy.png, id=65, 772.8875pt x 550.055pt>
+File: img/tigersnavy.png Graphic file (type png)
+<use img/tigersnavy.png>
+Package pdftex.def Info: img/tigersnavy.png  used on input line 96.
+(pdftex.def)             Requested size: 158.8575pt x 113.05576pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1627,12 +1616,17 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [8
 
- <./img/naga1.png> <./img/naga2.png>]
-<img/naxalites.jpeg, id=75, 1606.0pt x 1203.49625pt>
-File: img/naxalites.jpeg Graphic file (type jpg)
-<use img/naxalites.jpeg>
-Package pdftex.def Info: img/naxalites.jpeg  used on input line 106.
-(pdftex.def)             Requested size: 259.35727pt x 194.34462pt.
+ <./img/tigers.png> <./img/tigersnavy.png>]
+<img/naga1.png, id=73, 804.00375pt x 647.41875pt>
+File: img/naga1.png Graphic file (type png)
+<use img/naga1.png>
+Package pdftex.def Info: img/naga1.png  used on input line 113.
+(pdftex.def)             Requested size: 158.8575pt x 127.91072pt.
+<img/naga2.png, id=74, 477.785pt x 579.16376pt>
+File: img/naga2.png Graphic file (type png)
+<use img/naga2.png>
+Package pdftex.def Info: img/naga2.png  used on input line 113.
+(pdftex.def)             Requested size: 158.8575pt x 192.56511pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1640,12 +1634,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [9
 
- <./img/naxalites.jpeg>]
-<img/ixcan1988.jpeg, id=81, 2509.375pt x 1636.1125pt>
-File: img/ixcan1988.jpeg Graphic file (type jpg)
-<use img/ixcan1988.jpeg>
-Package pdftex.def Info: img/ixcan1988.jpeg  used on input line 118.
-(pdftex.def)             Requested size: 291.77383pt x 190.23355pt.
+ <./img/naga1.png> <./img/naga2.png>]
+<img/naxalites.jpeg, id=82, 1606.0pt x 1203.49625pt>
+File: img/naxalites.jpeg Graphic file (type jpg)
+<use img/naxalites.jpeg>
+Package pdftex.def Info: img/naxalites.jpeg  used on input line 125.
+(pdftex.def)             Requested size: 259.35727pt x 194.34462pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1653,14 +1647,20 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [10
 
- <./img/ixcan1988.jpeg>]
+ <./img/naxalites.jpeg>]
+<img/ixcan1988.jpeg, id=88, 2509.375pt x 1636.1125pt>
+File: img/ixcan1988.jpeg Graphic file (type jpg)
+<use img/ixcan1988.jpeg>
+Package pdftex.def Info: img/ixcan1988.jpeg  used on input line 137.
+(pdftex.def)             Requested size: 291.77383pt x 190.23355pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [11
 
-]
+ <./img/ixcan1988.jpeg>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1675,19 +1675,13 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [13
 
 ]
-<img/kalyvas_balcells_tr.png, id=105, 498.86375pt x 300.12125pt>
-File: img/kalyvas_balcells_tr.png Graphic file (type png)
-<use img/kalyvas_balcells_tr.png>
-Package pdftex.def Info: img/kalyvas_balcells_tr.png  used on input line 192.
-(pdftex.def)             Requested size: 259.35727pt x 156.03647pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [14
 
- <./img/kalyvas_balcells_tr.png>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1709,13 +1703,19 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [17
 
 ]
+<img/kalyvas_balcells_tr.png, id=126, 498.86375pt x 300.12125pt>
+File: img/kalyvas_balcells_tr.png Graphic file (type png)
+<use img/kalyvas_balcells_tr.png>
+Package pdftex.def Info: img/kalyvas_balcells_tr.png  used on input line 211.
+(pdftex.def)             Requested size: 259.35727pt x 156.03647pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [18
 
-]
+ <./img/kalyvas_balcells_tr.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1730,40 +1730,20 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [20
 
 ]
-<img/conflicts_over_time.pdf, id=143, 544.48555pt x 387.29161pt>
-File: img/conflicts_over_time.pdf Graphic file (type pdf)
-<use img/conflicts_over_time.pdf>
-Package pdftex.def Info: img/conflicts_over_time.pdf  used on input line 262.
-(pdftex.def)             Requested size: 291.77383pt x 207.53876pt.
-
-Overfull \vbox (2.69029pt too high) detected at line 262
- []
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [21
 
- <./img/conflicts_over_time.pdf>]
-<img/great_powers_wars.png, id=210, 712.6625pt x 552.0625pt>
-File: img/great_powers_wars.png Graphic file (type png)
-<use img/great_powers_wars.png>
-Package pdftex.def Info: img/great_powers_wars.png  used on input line 274.
-(pdftex.def)             Requested size: 275.56802pt x 213.46712pt.
-
-Overfull \vbox (8.61865pt too high) detected at line 274
- []
-
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [22
 
- <./img/great_powers_wars.png (PNG copy)>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1778,66 +1758,61 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [24
 
 ]
+<img/conflicts_over_time.pdf, id=164, 544.48555pt x 387.29161pt>
+File: img/conflicts_over_time.pdf Graphic file (type pdf)
+<use img/conflicts_over_time.pdf>
+Package pdftex.def Info: img/conflicts_over_time.pdf  used on input line 281.
+(pdftex.def)             Requested size: 291.77383pt x 207.53876pt.
+
+Overfull \vbox (2.69029pt too high) detected at line 281
+ []
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [25
 
-]
+ <./img/conflicts_over_time.pdf>]
+<img/great_powers_wars.png, id=232, 712.6625pt x 552.0625pt>
+File: img/great_powers_wars.png Graphic file (type png)
+<use img/great_powers_wars.png>
+Package pdftex.def Info: img/great_powers_wars.png  used on input line 293.
+(pdftex.def)             Requested size: 275.56802pt x 213.46712pt.
+
+Overfull \vbox (8.61865pt too high) detected at line 293
+ []
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [26
 
-]
-<img/goya.jpg, id=239, 711.27667pt x 327.5463pt>
-File: img/goya.jpg Graphic file (type jpg)
-<use img/goya.jpg>
-Package pdftex.def Info: img/goya.jpg  used on input line 320.
-(pdftex.def)             Requested size: 324.19536pt x 149.29868pt.
-
+ <./img/great_powers_wars.png (PNG copy)>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [27
 
- <./img/goya.jpg>]
-<img/conflicts_over_time2.png, id=245, 911.405pt x 646.415pt>
-File: img/conflicts_over_time2.png Graphic file (type png)
-<use img/conflicts_over_time2.png>
-Package pdftex.def Info: img/conflicts_over_time2.png  used on input line 334.
-(pdftex.def)             Requested size: 259.35727pt x 183.95401pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [28
 
- <./img/conflicts_over_time2.png>]
-<img/africa_decolonization.png, id=252, 401.5pt x 401.5pt>
-File: img/africa_decolonization.png Graphic file (type png)
-<use img/africa_decolonization.png>
-Package pdftex.def Info: img/africa_decolonization.png  used on input line 357.
-
-(pdftex.def)             Requested size: 129.67616pt x 129.67726pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [29
 
- <./img/africa_decolonization.png>]
-File: img/africa_decolonization.png Graphic file (type png)
-<use img/africa_decolonization.png>
-Package pdftex.def Info: img/africa_decolonization.png  used on input line 357.
-
-(pdftex.def)             Requested size: 129.67616pt x 129.67726pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1845,11 +1820,11 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [30
 
 ]
-<img/guevara.jpeg, id=264, 431.6125pt x 698.61pt>
-File: img/guevara.jpeg Graphic file (type jpg)
-<use img/guevara.jpeg>
-Package pdftex.def Info: img/guevara.jpeg  used on input line 378.
-(pdftex.def)             Requested size: 116.70775pt x 188.90437pt.
+<img/goya.jpg, id=259, 711.27667pt x 327.5463pt>
+File: img/goya.jpg Graphic file (type jpg)
+<use img/goya.jpg>
+Package pdftex.def Info: img/goya.jpg  used on input line 339.
+(pdftex.def)             Requested size: 324.19536pt x 149.29868pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1857,12 +1832,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [31
 
- <./img/guevara.jpeg>]
-<img/cuban.jpeg, id=271, 154.176pt x 108.1641pt>
-File: img/cuban.jpeg Graphic file (type jpg)
-<use img/cuban.jpeg>
-Package pdftex.def Info: img/cuban.jpeg  used on input line 401.
-(pdftex.def)             Requested size: 126.43599pt x 88.70337pt.
+ <./img/goya.jpg>]
+<img/conflicts_over_time2.png, id=266, 911.405pt x 646.415pt>
+File: img/conflicts_over_time2.png Graphic file (type png)
+<use img/conflicts_over_time2.png>
+Package pdftex.def Info: img/conflicts_over_time2.png  used on input line 353.
+(pdftex.def)             Requested size: 259.35727pt x 183.95401pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1870,12 +1845,13 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [32
 
- <./img/cuban.jpeg>]
-<img/sarajevo.jpeg, id=277, 387.4475pt x 507.8975pt>
-File: img/sarajevo.jpeg Graphic file (type jpg)
-<use img/sarajevo.jpeg>
-Package pdftex.def Info: img/sarajevo.jpeg  used on input line 421.
-(pdftex.def)             Requested size: 126.43599pt x 165.73897pt.
+ <./img/conflicts_over_time2.png>]
+<img/africa_decolonization.png, id=273, 401.5pt x 401.5pt>
+File: img/africa_decolonization.png Graphic file (type png)
+<use img/africa_decolonization.png>
+Package pdftex.def Info: img/africa_decolonization.png  used on input line 376.
+
+(pdftex.def)             Requested size: 129.67616pt x 129.67726pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1883,12 +1859,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [33
 
- <./img/sarajevo.jpeg>]
-<img/cw_studies.png, id=283, 981.6675pt x 559.08875pt>
-File: img/cw_studies.png Graphic file (type png)
-<use img/cw_studies.png>
-Package pdftex.def Info: img/cw_studies.png  used on input line 431.
-(pdftex.def)             Requested size: 324.19536pt x 184.63634pt.
+ <./img/africa_decolonization.png>]
+File: img/africa_decolonization.png Graphic file (type png)
+<use img/africa_decolonization.png>
+Package pdftex.def Info: img/africa_decolonization.png  used on input line 376.
+
+(pdftex.def)             Requested size: 129.67616pt x 129.67726pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1896,12 +1872,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [34
 
- <./img/cw_studies.png>]
-<img/greed_grievance.png, id=290, 524.96124pt x 711.65875pt>
-File: img/greed_grievance.png Graphic file (type png)
-<use img/greed_grievance.png>
-Package pdftex.def Info: img/greed_grievance.png  used on input line 455.
-(pdftex.def)             Requested size: 137.784pt x 186.78607pt.
+]
+<img/guevara.jpeg, id=285, 431.6125pt x 698.61pt>
+File: img/guevara.jpeg Graphic file (type jpg)
+<use img/guevara.jpeg>
+Package pdftex.def Info: img/guevara.jpeg  used on input line 397.
+(pdftex.def)             Requested size: 116.70775pt x 188.90437pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1909,35 +1885,59 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [35
 
- <./img/greed_grievance.png>]
+ <./img/guevara.jpeg>]
+<img/cuban.jpeg, id=291, 154.176pt x 108.1641pt>
+File: img/cuban.jpeg Graphic file (type jpg)
+<use img/cuban.jpeg>
+Package pdftex.def Info: img/cuban.jpeg  used on input line 420.
+(pdftex.def)             Requested size: 126.43599pt x 88.70337pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [36
 
-]
+ <./img/cuban.jpeg>]
+<img/sarajevo.jpeg, id=297, 387.4475pt x 507.8975pt>
+File: img/sarajevo.jpeg Graphic file (type jpg)
+<use img/sarajevo.jpeg>
+Package pdftex.def Info: img/sarajevo.jpeg  used on input line 440.
+(pdftex.def)             Requested size: 126.43599pt x 165.73897pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [37
 
-]
+ <./img/sarajevo.jpeg>]
+<img/cw_studies.png, id=304, 981.6675pt x 559.08875pt>
+File: img/cw_studies.png Graphic file (type png)
+<use img/cw_studies.png>
+Package pdftex.def Info: img/cw_studies.png  used on input line 450.
+(pdftex.def)             Requested size: 324.19536pt x 184.63634pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [38
 
-]
+ <./img/cw_studies.png>]
+<img/greed_grievance.png, id=312, 524.96124pt x 711.65875pt>
+File: img/greed_grievance.png Graphic file (type png)
+<use img/greed_grievance.png>
+Package pdftex.def Info: img/greed_grievance.png  used on input line 474.
+(pdftex.def)             Requested size: 137.784pt x 186.78607pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [39
 
-]
+ <./img/greed_grievance.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1945,10 +1945,38 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [40
 
 ]
-<img/collier_hoeffler_model.png, id=325, 703.62875pt x 478.78876pt>
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[41
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[42
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[43
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[44
+
+]
+<img/collier_hoeffler_model.png, id=346, 703.62875pt x 478.78876pt>
 File: img/collier_hoeffler_model.png Graphic file (type png)
 <use img/collier_hoeffler_model.png>
-Package pdftex.def Info: img/collier_hoeffler_model.png  used on input line 499
+Package pdftex.def Info: img/collier_hoeffler_model.png  used on input line 518
 .
 (pdftex.def)             Requested size: 324.19536pt x 220.59618pt.
 
@@ -1956,70 +1984,18 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[41
-
- <./img/collier_hoeffler_model.png>]
-<img/liberia_curtis.jpg, id=332, 542.025pt x 359.54324pt>
-File: img/liberia_curtis.jpg Graphic file (type jpg)
-<use img/liberia_curtis.jpg>
-Package pdftex.def Info: img/liberia_curtis.jpg  used on input line 516.
-(pdftex.def)             Requested size: 226.93576pt x 150.53531pt.
-
-Overfull \vbox (5.55367pt too high) detected at line 516
- []
-
-
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[42
-
- <./img/liberia_curtis.jpg>]
-<img/farc.jpeg, id=339, 1027.84pt x 770.88pt>
-File: img/farc.jpeg Graphic file (type jpg)
-<use img/farc.jpeg>
-Package pdftex.def Info: img/farc.jpeg  used on input line 528.
-(pdftex.def)             Requested size: 259.35727pt x 194.51921pt.
-
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[43
-
- <./img/farc.jpeg>]
-<img/taliban.png, id=346, 916.42375pt x 686.565pt>
-File: img/taliban.png Graphic file (type png)
-<use img/taliban.png>
-Package pdftex.def Info: img/taliban.png  used on input line 540.
-(pdftex.def)             Requested size: 259.35727pt x 194.30067pt.
-
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[44
-
- <./img/taliban.png>]
-<img/taliban_cnn.png, id=353, 1115.16624pt x 766.865pt>
-File: img/taliban_cnn.png Graphic file (type png)
-<use img/taliban_cnn.png>
-Package pdftex.def Info: img/taliban_cnn.png  used on input line 557.
-(pdftex.def)             Requested size: 259.35727pt x 178.35278pt.
-
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
 [45
 
- <./img/taliban_cnn.png>]
-<img/Blooddiamondposter.jpeg, id=360, 385.44pt x 571.4148pt>
-File: img/Blooddiamondposter.jpeg Graphic file (type jpg)
-<use img/Blooddiamondposter.jpeg>
-Package pdftex.def Info: img/Blooddiamondposter.jpeg  used on input line 583.
-(pdftex.def)             Requested size: 116.70775pt x 173.01262pt.
+ <./img/collier_hoeffler_model.png>]
+<img/liberia_curtis.jpg, id=353, 542.025pt x 359.54324pt>
+File: img/liberia_curtis.jpg Graphic file (type jpg)
+<use img/liberia_curtis.jpg>
+Package pdftex.def Info: img/liberia_curtis.jpg  used on input line 535.
+(pdftex.def)             Requested size: 226.93576pt x 150.53531pt.
+
+Overfull \vbox (5.55367pt too high) detected at line 535
+ []
+
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2027,11 +2003,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [46
 
- <./img/Blooddiamondposter.jpeg>]
-File: img/Blooddiamondposter.jpeg Graphic file (type jpg)
-<use img/Blooddiamondposter.jpeg>
-Package pdftex.def Info: img/Blooddiamondposter.jpeg  used on input line 583.
-(pdftex.def)             Requested size: 116.70775pt x 173.01262pt.
+ <./img/liberia_curtis.jpg>]
+<img/farc.jpeg, id=360, 1027.84pt x 770.88pt>
+File: img/farc.jpeg Graphic file (type jpg)
+<use img/farc.jpeg>
+Package pdftex.def Info: img/farc.jpeg  used on input line 547.
+(pdftex.def)             Requested size: 259.35727pt x 194.51921pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2039,11 +2016,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [47
 
-]
-File: img/Blooddiamondposter.jpeg Graphic file (type jpg)
-<use img/Blooddiamondposter.jpeg>
-Package pdftex.def Info: img/Blooddiamondposter.jpeg  used on input line 583.
-(pdftex.def)             Requested size: 116.70775pt x 173.01262pt.
+ <./img/farc.jpeg>]
+<img/taliban.png, id=366, 916.42375pt x 686.565pt>
+File: img/taliban.png Graphic file (type png)
+<use img/taliban.png>
+Package pdftex.def Info: img/taliban.png  used on input line 559.
+(pdftex.def)             Requested size: 259.35727pt x 194.30067pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2051,12 +2029,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [48
 
-]
-<img/fearon_laitin.png, id=376, 1012.78375pt x 460.72125pt>
-File: img/fearon_laitin.png Graphic file (type png)
-<use img/fearon_laitin.png>
-Package pdftex.def Info: img/fearon_laitin.png  used on input line 602.
-(pdftex.def)             Requested size: 324.19536pt x 147.47598pt.
+ <./img/taliban.png>]
+<img/taliban_cnn.png, id=373, 1115.16624pt x 766.865pt>
+File: img/taliban_cnn.png Graphic file (type png)
+<use img/taliban_cnn.png>
+Package pdftex.def Info: img/taliban_cnn.png  used on input line 576.
+(pdftex.def)             Requested size: 259.35727pt x 178.35278pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2064,14 +2042,25 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [49
 
- <./img/fearon_laitin.png>]
+ <./img/taliban_cnn.png>]
+<img/Blooddiamondposter.jpeg, id=381, 385.44pt x 571.4148pt>
+File: img/Blooddiamondposter.jpeg Graphic file (type jpg)
+<use img/Blooddiamondposter.jpeg>
+Package pdftex.def Info: img/Blooddiamondposter.jpeg  used on input line 602.
+(pdftex.def)             Requested size: 116.70775pt x 173.01262pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [50
 
-]
+ <./img/Blooddiamondposter.jpeg>]
+File: img/Blooddiamondposter.jpeg Graphic file (type jpg)
+<use img/Blooddiamondposter.jpeg>
+Package pdftex.def Info: img/Blooddiamondposter.jpeg  used on input line 602.
+(pdftex.def)             Requested size: 116.70775pt x 173.01262pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2079,6 +2068,11 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [51
 
 ]
+File: img/Blooddiamondposter.jpeg Graphic file (type jpg)
+<use img/Blooddiamondposter.jpeg>
+Package pdftex.def Info: img/Blooddiamondposter.jpeg  used on input line 602.
+(pdftex.def)             Requested size: 116.70775pt x 173.01262pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2086,13 +2080,19 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [52
 
 ]
+<img/fearon_laitin.png, id=397, 1012.78375pt x 460.72125pt>
+File: img/fearon_laitin.png Graphic file (type png)
+<use img/fearon_laitin.png>
+Package pdftex.def Info: img/fearon_laitin.png  used on input line 621.
+(pdftex.def)             Requested size: 324.19536pt x 147.47598pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [53
 
-]
+ <./img/fearon_laitin.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2149,12 +2149,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [61
 
 ]
-File: img/africa_decolonization.png Graphic file (type png)
-<use img/africa_decolonization.png>
-Package pdftex.def Info: img/africa_decolonization.png  used on input line 695.
-
-(pdftex.def)             Requested size: 129.67616pt x 129.67726pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2162,20 +2156,13 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [62
 
 ]
-<img/conflicts_over_time90.png, id=451, 1327.96124pt x 948.54375pt>
-File: img/conflicts_over_time90.png Graphic file (type png)
-<use img/conflicts_over_time90.png>
-Package pdftex.def Info: img/conflicts_over_time90.png  used on input line 712.
-
-(pdftex.def)             Requested size: 243.14651pt x 173.66864pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [63
 
- <./img/conflicts_over_time90.png>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2190,6 +2177,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [65
 
 ]
+File: img/africa_decolonization.png Graphic file (type png)
+<use img/africa_decolonization.png>
+Package pdftex.def Info: img/africa_decolonization.png  used on input line 714.
+
+(pdftex.def)             Requested size: 129.67616pt x 129.67726pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2197,11 +2190,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [66
 
 ]
-<img/muller-crepon.png, id=474, 497.35812pt x 436.12938pt>
-File: img/muller-crepon.png Graphic file (type png)
-<use img/muller-crepon.png>
-Package pdftex.def Info: img/muller-crepon.png  used on input line 736.
-(pdftex.def)             Requested size: 243.14651pt x 213.2128pt.
+<img/conflicts_over_time90.png, id=472, 1327.96124pt x 948.54375pt>
+File: img/conflicts_over_time90.png Graphic file (type png)
+<use img/conflicts_over_time90.png>
+Package pdftex.def Info: img/conflicts_over_time90.png  used on input line 731.
+
+(pdftex.def)             Requested size: 243.14651pt x 173.66864pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2209,7 +2203,7 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [67
 
- <./img/muller-crepon.png>]
+ <./img/conflicts_over_time90.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2224,17 +2218,51 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [69
 
 ]
-<img/ComingAnarchy.png, id=492, 1219.55624pt x 1606.0pt>
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[70
+
+]
+<img/muller-crepon.png, id=495, 497.35812pt x 436.12938pt>
+File: img/muller-crepon.png Graphic file (type png)
+<use img/muller-crepon.png>
+Package pdftex.def Info: img/muller-crepon.png  used on input line 755.
+(pdftex.def)             Requested size: 243.14651pt x 213.2128pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[71
+
+ <./img/muller-crepon.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[72
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[73
+
+]
+<img/ComingAnarchy.png, id=513, 1219.55624pt x 1606.0pt>
 File: img/ComingAnarchy.png Graphic file (type png)
 <use img/ComingAnarchy.png>
-Package pdftex.def Info: img/ComingAnarchy.png  used on input line 784.
+Package pdftex.def Info: img/ComingAnarchy.png  used on input line 803.
 (pdftex.def)             Requested size: 142.64674pt x 187.83508pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[70
+[74
 
  <./img/ComingAnarchy.png>]
 \tf@nav=\write7
@@ -2254,10 +2282,10 @@ Package logreq Info: Writing requests to 'civil_wars1.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32777 strings out of 478994
- 632217 string characters out of 5858184
+ 32787 strings out of 478994
+ 632311 string characters out of 5858184
  1334022 words of memory out of 5000000
- 49426 multiletter control sequences out of 15000+600000
+ 49428 multiletter control sequences out of 15000+600000
  416719 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,1136b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2271,10 +2299,10 @@ r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on civil_wars1.pdf (70 pages, 39717180 bytes).
+Output written on civil_wars1.pdf (74 pages, 39721872 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 141 named destinations out of 1000 (max. 500000)
+ 589 PDF objects out of 1000 (max. 8388607)
+ 429 compressed objects within 5 object streams
+ 149 named destinations out of 1000 (max. 500000)
  203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
