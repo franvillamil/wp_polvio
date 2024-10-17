@@ -8,7 +8,7 @@ layout: default
 - [Download seminar readings (Aula Global)](https://aulaglobal.uc3m.es/mod/folder/view.php?id=5133021)
 - [Resources / background readings](./resources.html)
 
-#### Schedule
+### Schedule
 
 | Date        | Topic  | Slides | Seminar reading |
 | :---        | :---   | :--- | :--- |
@@ -25,4 +25,4 @@ layout: default
 | Nov 21-22  | Postwar politics and TJ | <!-- [[PDF](./slides/10_postwar_politics/postwar.pdf)] --> | [[url](https://www.newyorker.com/magazine/2022/08/08/the-prosecution-of-russian-war-crimes-in-ukraine)] |
 | Dec 28-29 | Legacies of war | <!-- [[PDF](./slides/12_legacies/legacies.pdf)] --> | [[url](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)] |
 | Dec 5  | Students' presentations (2) |||
-| Dec 12-13   | Wrap-up & extra presentations | <!-- [[PDF](./slides/13_wrap/wrap_up.pdf)] --> ||
+| Dec 12-13   | Wrap-up & Presentations (3) | <!-- [[PDF](./slides/13_wrap/wrap_up.pdf)] --> ||
