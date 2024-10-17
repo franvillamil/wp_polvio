@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  17 OCT 2024 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  17 OCT 2024 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1622,7 +1622,19 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [8
 
  <./img/belfast_mural.jpg>]
-<img/why_men_rebel.jpg, id=71, 332.24126pt x 501.875pt>
+File: img/belfast_mural.jpg Graphic file (type jpg)
+<use img/belfast_mural.jpg>
+Package pdftex.def Info: img/belfast_mural.jpg  used on input line 131.
+(pdftex.def)             Requested size: 128.3812pt x 192.5666pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[9
+
+]
+<img/why_men_rebel.jpg, id=77, 332.24126pt x 501.875pt>
 File: img/why_men_rebel.jpg Graphic file (type jpg)
 <use img/why_men_rebel.jpg>
 Package pdftex.def Info: img/why_men_rebel.jpg  used on input line 156.
@@ -1632,17 +1644,29 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[9
+[10
 
  <./img/why_men_rebel.jpg>]
+File: img/why_men_rebel.jpg Graphic file (type jpg)
+<use img/why_men_rebel.jpg>
+Package pdftex.def Info: img/why_men_rebel.jpg  used on input line 156.
+(pdftex.def)             Requested size: 116.70775pt x 176.29448pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[10
+[11
 
 ]
-<img/scott_moral.jpeg, id=82, 1003.75pt x 1576.89125pt>
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[12
+
+]
+<img/scott_moral.jpeg, id=93, 1003.75pt x 1576.89125pt>
 File: img/scott_moral.jpeg Graphic file (type jpg)
 <use img/scott_moral.jpeg>
 Package pdftex.def Info: img/scott_moral.jpeg  used on input line 192.
@@ -1652,29 +1676,14 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[11
-
- <./img/scott_moral.jpeg>]
-<img/skocpol.jpeg, id=88, 504.4446pt x 690.53986pt>
-File: img/skocpol.jpeg Graphic file (type jpg)
-<use img/skocpol.jpeg>
-Package pdftex.def Info: img/skocpol.jpeg  used on input line 213.
-(pdftex.def)             Requested size: 116.70775pt x 159.75859pt.
-
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[12
-
- <./img/skocpol.jpeg>]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
 [13
 
-]
+ <./img/scott_moral.jpeg>]
+File: img/scott_moral.jpeg Graphic file (type jpg)
+<use img/scott_moral.jpeg>
+Package pdftex.def Info: img/scott_moral.jpeg  used on input line 192.
+(pdftex.def)             Requested size: 116.70775pt x 183.34781pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1682,13 +1691,24 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [14
 
 ]
+<img/skocpol.jpeg, id=105, 504.4446pt x 690.53986pt>
+File: img/skocpol.jpeg Graphic file (type jpg)
+<use img/skocpol.jpeg>
+Package pdftex.def Info: img/skocpol.jpeg  used on input line 216.
+(pdftex.def)             Requested size: 116.70775pt x 159.75859pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [15
 
-]
+ <./img/skocpol.jpeg>]
+File: img/skocpol.jpeg Graphic file (type jpg)
+<use img/skocpol.jpeg>
+Package pdftex.def Info: img/skocpol.jpeg  used on input line 216.
+(pdftex.def)             Requested size: 116.70775pt x 159.75859pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1731,89 +1751,48 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [21
 
 ]
-<img/cgb.jpg, id=142, 910.40125pt x 1365.1pt>
-File: img/cgb.jpg Graphic file (type jpg)
-<use img/cgb.jpg>
-Package pdftex.def Info: img/cgb.jpg  used on input line 311.
-(pdftex.def)             Requested size: 113.79161pt x 170.61624pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [22
 
- <./img/cgb.jpg>]
-<img/cgb_causal1.png, id=148, 570.13pt x 286.06876pt>
-File: img/cgb_causal1.png Graphic file (type png)
-<use img/cgb_causal1.png>
-Package pdftex.def Info: img/cgb_causal1.png  used on input line 325.
-(pdftex.def)             Requested size: 275.56802pt x 138.26738pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [23
 
- <./img/cgb_causal1.png>]
-<img/cgb_causal2.png, id=155, 564.1075pt x 291.0875pt>
-File: img/cgb_causal2.png Graphic file (type png)
-<use img/cgb_causal2.png>
-Package pdftex.def Info: img/cgb_causal2.png  used on input line 339.
-(pdftex.def)             Requested size: 275.56802pt x 142.19884pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [24
 
- <./img/cgb_causal2.png>]
-<img/epr_nigeria.png, id=162, 716.6775pt x 586.19pt>
-File: img/epr_nigeria.png Graphic file (type png)
-<use img/epr_nigeria.png>
-Package pdftex.def Info: img/epr_nigeria.png  used on input line 353.
-(pdftex.def)             Requested size: 259.35727pt x 212.13736pt.
-
-Overfull \vbox (17.56667pt too high) detected at line 353
- []
-
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [25
 
- <./img/epr_nigeria.png>]
-<img/cgb_effect_exclusion.png, id=173, 510.90875pt x 455.7025pt>
-File: img/cgb_effect_exclusion.png Graphic file (type png)
-<use img/cgb_effect_exclusion.png>
-Package pdftex.def Info: img/cgb_effect_exclusion.png  used on input line 373.
-(pdftex.def)             Requested size: 162.09767pt x 144.57614pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [26
 
- <./img/cgb_effect_exclusion.png>]
-<img/cgb_effect_downgrading.png, id=180, 534.99875pt x 453.695pt>
-File: img/cgb_effect_downgrading.png Graphic file (type png)
-<use img/cgb_effect_downgrading.png>
-Package pdftex.def Info: img/cgb_effect_downgrading.png  used on input line 393
-.
-(pdftex.def)             Requested size: 162.09767pt x 137.46642pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [27
 
- <./img/cgb_effect_downgrading.png>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1849,19 +1828,24 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [32
 
 ]
+<img/cgb.jpg, id=201, 910.40125pt x 1365.1pt>
+File: img/cgb.jpg Graphic file (type jpg)
+<use img/cgb.jpg>
+Package pdftex.def Info: img/cgb.jpg  used on input line 328.
+(pdftex.def)             Requested size: 113.79161pt x 170.61624pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [33
 
-]
-<img/kalyvas_balcells_cold_war.png, id=218, 894.34125pt x 460.72125pt>
-File: img/kalyvas_balcells_cold_war.png Graphic file (type png)
-<use img/kalyvas_balcells_cold_war.png>
-Package pdftex.def Info: img/kalyvas_balcells_cold_war.png  used on input line 
-470.
-(pdftex.def)             Requested size: 291.77383pt x 150.30908pt.
+ <./img/cgb.jpg>]
+<img/cgb_causal1.png, id=207, 570.13pt x 286.06876pt>
+File: img/cgb_causal1.png Graphic file (type png)
+<use img/cgb_causal1.png>
+Package pdftex.def Info: img/cgb_causal1.png  used on input line 342.
+(pdftex.def)             Requested size: 275.56802pt x 138.26738pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1869,16 +1853,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [34
 
- <./img/kalyvas_balcells_cold_war.png>]
-<img/kalyvas_balcells_irr.png, id=226, 844.15375pt x 597.23125pt>
-File: img/kalyvas_balcells_irr.png Graphic file (type png)
-<use img/kalyvas_balcells_irr.png>
-Package pdftex.def Info: img/kalyvas_balcells_irr.png  used on input line 480.
-(pdftex.def)             Requested size: 324.19536pt x 229.36517pt.
-
-Overfull \vbox (5.97452pt too high) detected at line 480
- []
-
+ <./img/cgb_causal1.png>]
+<img/cgb_causal2.png, id=214, 564.1075pt x 291.0875pt>
+File: img/cgb_causal2.png Graphic file (type png)
+<use img/cgb_causal2.png>
+Package pdftex.def Info: img/cgb_causal2.png  used on input line 356.
+(pdftex.def)             Requested size: 275.56802pt x 142.19884pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1886,13 +1866,16 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [35
 
- <./img/kalyvas_balcells_irr.png>]
-<img/kalyvas_balcells_table.png, id=233, 786.94pt x 226.8475pt>
-File: img/kalyvas_balcells_table.png Graphic file (type png)
-<use img/kalyvas_balcells_table.png>
-Package pdftex.def Info: img/kalyvas_balcells_table.png  used on input line 490
-.
-(pdftex.def)             Requested size: 324.19536pt x 93.45113pt.
+ <./img/cgb_causal2.png>]
+<img/epr_nigeria.png, id=221, 716.6775pt x 586.19pt>
+File: img/epr_nigeria.png Graphic file (type png)
+<use img/epr_nigeria.png>
+Package pdftex.def Info: img/epr_nigeria.png  used on input line 370.
+(pdftex.def)             Requested size: 259.35727pt x 212.13736pt.
+
+Overfull \vbox (17.56667pt too high) detected at line 370
+ []
+
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -1900,21 +1883,34 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [36
 
- <./img/kalyvas_balcells_table.png>]
+ <./img/epr_nigeria.png>]
+<img/cgb_effect_exclusion.png, id=230, 510.90875pt x 455.7025pt>
+File: img/cgb_effect_exclusion.png Graphic file (type png)
+<use img/cgb_effect_exclusion.png>
+Package pdftex.def Info: img/cgb_effect_exclusion.png  used on input line 390.
+(pdftex.def)             Requested size: 162.09767pt x 144.57614pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [37
 
-]
+ <./img/cgb_effect_exclusion.png>]
+<img/cgb_effect_downgrading.png, id=238, 534.99875pt x 453.695pt>
+File: img/cgb_effect_downgrading.png Graphic file (type png)
+<use img/cgb_effect_downgrading.png>
+Package pdftex.def Info: img/cgb_effect_downgrading.png  used on input line 410
+.
+(pdftex.def)             Requested size: 162.09767pt x 137.46642pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [38
 
-]
+ <./img/cgb_effect_downgrading.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1957,44 +1953,58 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [44
 
 ]
+<img/kalyvas_balcells_cold_war.png, id=276, 894.34125pt x 460.72125pt>
+File: img/kalyvas_balcells_cold_war.png Graphic file (type png)
+<use img/kalyvas_balcells_cold_war.png>
+Package pdftex.def Info: img/kalyvas_balcells_cold_war.png  used on input line 
+487.
+(pdftex.def)             Requested size: 291.77383pt x 150.30908pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [45
 
-]
+ <./img/kalyvas_balcells_cold_war.png>]
+<img/kalyvas_balcells_irr.png, id=284, 844.15375pt x 597.23125pt>
+File: img/kalyvas_balcells_irr.png Graphic file (type png)
+<use img/kalyvas_balcells_irr.png>
+Package pdftex.def Info: img/kalyvas_balcells_irr.png  used on input line 497.
+(pdftex.def)             Requested size: 324.19536pt x 229.36517pt.
+
+Overfull \vbox (5.97452pt too high) detected at line 497
+ []
+
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [46
 
-]
+ <./img/kalyvas_balcells_irr.png>]
+<img/kalyvas_balcells_table.png, id=291, 786.94pt x 226.8475pt>
+File: img/kalyvas_balcells_table.png Graphic file (type png)
+<use img/kalyvas_balcells_table.png>
+Package pdftex.def Info: img/kalyvas_balcells_table.png  used on input line 507
+.
+(pdftex.def)             Requested size: 324.19536pt x 93.45113pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [47
 
-]
-<img/colombia_duration.png, id=298, 685.56125pt x 651.43375pt>
-File: img/colombia_duration.png Graphic file (type png)
-<use img/colombia_duration.png>
-Package pdftex.def Info: img/colombia_duration.png  used on input line 586.
-(pdftex.def)             Requested size: 324.19536pt x 308.06252pt.
-
-Overfull \vbox (84.67186pt too high) detected at line 586
- []
-
-
+ <./img/kalyvas_balcells_table.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [48
 
- <./img/colombia_duration.png>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2002,24 +2012,13 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [49
 
 ]
-<img/balcells_kalyvas_duration.png, id=311, 678.535pt x 496.85625pt>
-File: img/balcells_kalyvas_duration.png Graphic file (type png)
-<use img/balcells_kalyvas_duration.png>
-Package pdftex.def Info: img/balcells_kalyvas_duration.png  used on input line 
-622.
-(pdftex.def)             Requested size: 259.35727pt x 189.91422pt.
-
-Overfull \vbox (2.29265pt too high) detected at line 622
- []
-
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [50
 
- <./img/balcells_kalyvas_duration.png>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2027,17 +2026,115 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [51
 
 ]
-<img/gopal.png, id=324, 442.65375pt x 685.56125pt>
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[52
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[53
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[54
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[55
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[56
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[57
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[58
+
+]
+<img/colombia_duration.png, id=356, 685.56125pt x 651.43375pt>
+File: img/colombia_duration.png Graphic file (type png)
+<use img/colombia_duration.png>
+Package pdftex.def Info: img/colombia_duration.png  used on input line 603.
+(pdftex.def)             Requested size: 324.19536pt x 308.06252pt.
+
+Overfull \vbox (84.67186pt too high) detected at line 603
+ []
+
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[59
+
+ <./img/colombia_duration.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[60
+
+]
+<img/balcells_kalyvas_duration.png, id=368, 678.535pt x 496.85625pt>
+File: img/balcells_kalyvas_duration.png Graphic file (type png)
+<use img/balcells_kalyvas_duration.png>
+Package pdftex.def Info: img/balcells_kalyvas_duration.png  used on input line 
+639.
+(pdftex.def)             Requested size: 259.35727pt x 189.91422pt.
+
+Overfull \vbox (2.29265pt too high) detected at line 639
+ []
+
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[61
+
+ <./img/balcells_kalyvas_duration.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[62
+
+]
+<img/gopal.png, id=381, 442.65375pt x 685.56125pt>
 File: img/gopal.png Graphic file (type png)
 <use img/gopal.png>
-Package pdftex.def Info: img/gopal.png  used on input line 655.
+Package pdftex.def Info: img/gopal.png  used on input line 672.
 (pdftex.def)             Requested size: 142.64674pt x 220.92181pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[52
+[63
 
  <./img/gopal.png>]
 \tf@nav=\write7
@@ -2057,10 +2154,10 @@ Package logreq Info: Writing requests to 'civil_wars2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32573 strings out of 478994
- 628632 string characters out of 5858184
+ 32597 strings out of 478994
+ 628857 string characters out of 5858184
  1333940 words of memory out of 5000000
- 49269 multiletter control sequences out of 15000+600000
+ 49271 multiletter control sequences out of 15000+600000
  417011 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,1136b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2075,10 +2172,10 @@ local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on civil_wars2.pdf (52 pages, 11347325 bytes).
+Output written on civil_wars2.pdf (63 pages, 11362248 bytes).
 PDF statistics:
- 392 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 105 named destinations out of 1000 (max. 500000)
+ 455 PDF objects out of 1000 (max. 8388607)
+ 335 compressed objects within 4 object streams
+ 127 named destinations out of 1000 (max. 500000)
  148 words of extra memory for PDF output out of 10000 (max. 10000000)
 

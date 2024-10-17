@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber civil_wars2"] 1729161095 "civil_wars2.bcf" "civil_wars2.bbl" "civil_wars2" 1729161788
-  "civil_wars2.bcf" 1729161788 106468 ad8a2f7bb417f46191bc89a21e9e1b2e "pdflatex"
+["biber civil_wars2"] 1729161095 "civil_wars2.bcf" "civil_wars2.bbl" "civil_wars2" 1729168305
+  "civil_wars2.bcf" 1729168305 106468 ad8a2f7bb417f46191bc89a21e9e1b2e "pdflatex"
   (generated)
   "civil_wars2.blg"
   "civil_wars2.bbl"
-["pdflatex"] 1729161785 "civil_wars2.tex" "civil_wars2.pdf" "civil_wars2" 1729161788
+["pdflatex"] 1729168302 "civil_wars2.tex" "civil_wars2.pdf" "civil_wars2" 1729168305
   "../beamer_preamble.tex" 1726740891 8157 c74562d22f120095bc4f72a799a80686 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -269,12 +269,12 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1618217920 2724739 d06cef4217cd60bcdf905aa8f120eb7c ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "civil_wars2.aux" 1729161788 10089 91492f60ae628b7b83b7200cf363fa92 "pdflatex"
+  "civil_wars2.aux" 1729168305 10326 d20ab516477b0b8c72c1096ac5931873 "pdflatex"
   "civil_wars2.bbl" 1729161120 0 d41d8cd98f00b204e9800998ecf8427e "biber civil_wars2"
-  "civil_wars2.nav" 1729161788 6210 b7f9873378c482041f3699e6cc997c6f "pdflatex"
-  "civil_wars2.out" 1729161786 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "civil_wars2.run.xml" 1729161788 2313 e15a98910439a6ff39496d0afd812cd5 "pdflatex"
-  "civil_wars2.tex" 1729161782 21318 4b4aeba0077ef0c67153bd086eaa7f28 ""
+  "civil_wars2.nav" 1729168305 6377 2a0fad7d6e1f189ab02b6bf96f72bb65 "pdflatex"
+  "civil_wars2.out" 1729168303 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "civil_wars2.run.xml" 1729168305 2313 e15a98910439a6ff39496d0afd812cd5 "pdflatex"
+  "civil_wars2.tex" 1729168298 22007 e24e459a8a89136ddd1e0cc57fb558fc ""
   "img/balcells_kalyvas_duration.png" 1727354164 118749 eb1a2f7cee72bae63029ad7031feaf67 ""
   "img/belfast_mural.jpg" 1727354164 96704 01bb1121bb4bfbd8c1f5bd4be737ac91 ""
   "img/cgb.jpg" 1727354164 172482 7b143acce54d2022024a1d357e4e41cc ""
@@ -297,12 +297,12 @@
   "img/skocpol.jpeg" 1727354164 223849 3b08fd363732b8f177da2b7ced0b41ae ""
   "img/why_men_rebel.jpg" 1727354164 21192 5a5894bdd54a11b08e56b61721bbf743 ""
   (generated)
-  "civil_wars2.snm"
   "civil_wars2.aux"
-  "civil_wars2.nav"
-  "civil_wars2.log"
-  "civil_wars2.run.xml"
-  "civil_wars2.out"
   "civil_wars2.bcf"
   "civil_wars2.pdf"
+  "civil_wars2.log"
+  "civil_wars2.out"
+  "civil_wars2.snm"
   "civil_wars2.toc"
+  "civil_wars2.run.xml"
+  "civil_wars2.nav"
