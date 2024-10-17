@@ -2,11 +2,13 @@
 layout: default
 ---
 
+## Fall 2024
+
 - [[**SYLLABUS 2024**]](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_war_peace_political_violence.pdf)
 - [Download seminar readings (Aula Global)](https://aulaglobal.uc3m.es/mod/folder/view.php?id=5133021)
 - [Resources / background readings](./resources.html)
 
-## Schedule Fall 2024
+#### Schedule
 
 | Date        | Topic  | Slides | Seminar reading |
 | :---        | :---   | :--- | :--- |
