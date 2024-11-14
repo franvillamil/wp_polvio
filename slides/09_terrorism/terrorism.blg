@@ -1,0 +1,5 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'terrorism.blg'
+[51] biber-darwin:340> INFO - === Thu Nov 14, 2024, 11:41:27
+[61] Biber.pm:415> INFO - Reading 'terrorism.bcf'
+[127] Utils.pm:395> WARN - No data sources defined!
