@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  28 NOV 2024 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  28 NOV 2024 14:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1646,34 +1646,34 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [15
 
 ]
+<img/lupu_peisakhin.png, id=105, 875.27pt x 918.43124pt>
+File: img/lupu_peisakhin.png Graphic file (type png)
+<use img/lupu_peisakhin.png>
+Package pdftex.def Info: img/lupu_peisakhin.png  used on input line 132.
+(pdftex.def)             Requested size: 208.23938pt x 218.51813pt.
+<img/rozenas_etal.png, id=107, 908.39375pt x 861.2175pt>
+File: img/rozenas_etal.png Graphic file (type png)
+<use img/rozenas_etal.png>
+Package pdftex.def Info: img/rozenas_etal.png  used on input line 132.
+(pdftex.def)             Requested size: 230.47995pt x 218.51813pt.
+ [16
+
+ <./img/lupu_peisakhin.png> <./img/rozenas_etal.png>]
+<img/rozenas_etal_map.png, id=115, 1487.5575pt x 869.2475pt>
+File: img/rozenas_etal_map.png Graphic file (type png)
+<use img/rozenas_etal_map.png>
+Package pdftex.def Info: img/rozenas_etal_map.png  used on input line 137.
+(pdftex.def)             Requested size: 364.19374pt x 212.81497pt.
+ [17
+
+ <./img/rozenas_etal_map.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[16
+[18
 
 ]
-<img/lupu_peisakhin.png, id=110, 875.27pt x 918.43124pt>
-File: img/lupu_peisakhin.png Graphic file (type png)
-<use img/lupu_peisakhin.png>
-Package pdftex.def Info: img/lupu_peisakhin.png  used on input line 131.
-(pdftex.def)             Requested size: 208.23938pt x 218.51813pt.
-<img/rozenas_etal.png, id=112, 908.39375pt x 861.2175pt>
-File: img/rozenas_etal.png Graphic file (type png)
-<use img/rozenas_etal.png>
-Package pdftex.def Info: img/rozenas_etal.png  used on input line 131.
-(pdftex.def)             Requested size: 230.47995pt x 218.51813pt.
- [17
-
- <./img/lupu_peisakhin.png> <./img/rozenas_etal.png>]
-<img/rozenas_etal_map.png, id=120, 1487.5575pt x 869.2475pt>
-File: img/rozenas_etal_map.png Graphic file (type png)
-<use img/rozenas_etal_map.png>
-Package pdftex.def Info: img/rozenas_etal_map.png  used on input line 135.
-(pdftex.def)             Requested size: 364.19374pt x 212.81497pt.
- [18
-
- <./img/rozenas_etal_map.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1730,61 +1730,73 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [26
 
 ]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+<img/uribe.png, id=173, 657.45625pt x 916.42375pt>
+File: img/uribe.png Graphic file (type png)
+<use img/uribe.png>
+Package pdftex.def Info: img/uribe.png  used on input line 212.
+(pdftex.def)             Requested size: 195.9543pt x 273.14662pt.
+<img/uribe_elec.png, id=174, 459.7175pt x 917.4275pt>
+File: img/uribe_elec.png Graphic file (type png)
+<use img/uribe_elec.png>
+Package pdftex.def Info: img/uribe_elec.png  used on input line 212.
+(pdftex.def)             Requested size: 136.87111pt x 273.14662pt.
+ [27
 
-[27
-
-]
-<img/zdaly.png, id=178, 615.29875pt x 919.435pt>
-File: img/zdaly.png Graphic file (type png)
-<use img/zdaly.png>
-Package pdftex.def Info: img/zdaly.png  used on input line 201.
-(pdftex.def)             Requested size: 182.7978pt x 273.153pt.
+ <./img/uribe.png> <./img/uribe_elec.png>]
+<img/riosmontt.png, id=182, 808.01875pt x 599.23875pt>
+File: img/riosmontt.png Graphic file (type png)
+<use img/riosmontt.png>
+Package pdftex.def Info: img/riosmontt.png  used on input line 216.
+(pdftex.def)             Requested size: 364.19688pt x 270.09384pt.
  [28
 
- <./img/zdaly.png>]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+ <./img/riosmontt.png>]
+<img/guate99.png, id=189, 467.7475pt x 732.7375pt>
+File: img/guate99.png Graphic file (type png)
+<use img/guate99.png>
+Package pdftex.def Info: img/guate99.png  used on input line 220.
+(pdftex.def)             Requested size: 174.36284pt x 273.14351pt.
 
 [29
 
-]
-<img/lee.jpeg, id=190, 493.3632pt x 328.8285pt>
-File: img/lee.jpeg Graphic file (type jpg)
-<use img/lee.jpeg>
-Package pdftex.def Info: img/lee.jpeg  used on input line 230.
-(pdftex.def)             Requested size: 364.20227pt x 242.74223pt.
+ <./img/guate99.png>]
+<img/guate1.png, id=196, 794.97pt x 765.86125pt>
+File: img/guate1.png Graphic file (type png)
+<use img/guate1.png>
+Package pdftex.def Info: img/guate1.png  used on input line 233.
+(pdftex.def)             Requested size: 198.46301pt x 191.2018pt.
+<img/guate2.png, id=197, 669.50125pt x 762.85pt>
+File: img/guate2.png Graphic file (type png)
+<use img/guate2.png>
+Package pdftex.def Info: img/guate2.png  used on input line 233.
+(pdftex.def)             Requested size: 167.80396pt x 191.2018pt.
  [30
 
- <./img/lee.jpeg>]
-<img/prieto.jpeg, id=196, 1204.5pt x 803.0pt>
-File: img/prieto.jpeg Graphic file (type jpg)
-<use img/prieto.jpeg>
-Package pdftex.def Info: img/prieto.jpeg  used on input line 234.
-(pdftex.def)             Requested size: 364.20155pt x 242.80104pt.
+ <./img/guate1.png> <./img/guate2.png>]
+<img/indo1.png, id=205, 1199.48125pt x 715.67375pt>
+File: img/indo1.png Graphic file (type png)
+<use img/indo1.png>
+Package pdftex.def Info: img/indo1.png  used on input line 237.
+(pdftex.def)             Requested size: 364.18486pt x 217.29189pt.
  [31
 
- <./img/prieto.jpeg>]
-<img/leninopad.png, id=203, 857.2025pt x 529.98pt>
-File: img/leninopad.png Graphic file (type png)
-<use img/leninopad.png>
-Package pdftex.def Info: img/leninopad.png  used on input line 238.
-(pdftex.def)             Requested size: 364.19507pt x 225.16977pt.
+ <./img/indo1.png>]
+<img/indo2.png, id=213, 1096.095pt x 716.6775pt>
+File: img/indo2.png Graphic file (type png)
+<use img/indo2.png>
+Package pdftex.def Info: img/indo2.png  used on input line 241.
+(pdftex.def)             Requested size: 364.2045pt x 238.13371pt.
  [32
 
- <./img/leninopad.png>]
-<img/gessen.png, id=210, 1321.93875pt x 547.04375pt>
-File: img/gessen.png Graphic file (type png)
-<use img/gessen.png>
-Package pdftex.def Info: img/gessen.png  used on input line 242.
-(pdftex.def)             Requested size: 364.18985pt x 150.70877pt.
+ <./img/indo2.png>]
+<img/zdaly.png, id=220, 615.29875pt x 919.435pt>
+File: img/zdaly.png Graphic file (type png)
+<use img/zdaly.png>
+Package pdftex.def Info: img/zdaly.png  used on input line 245.
+(pdftex.def)             Requested size: 182.7978pt x 273.153pt.
+ [33
 
-[33
-
- <./img/gessen.png>]
+ <./img/zdaly.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1792,34 +1804,39 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [34
 
 ]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+<img/lee.jpeg, id=232, 493.3632pt x 328.8285pt>
+File: img/lee.jpeg Graphic file (type jpg)
+<use img/lee.jpeg>
+Package pdftex.def Info: img/lee.jpeg  used on input line 273.
+(pdftex.def)             Requested size: 364.20227pt x 242.74223pt.
+ [35
 
-[35
+ <./img/lee.jpeg>]
+<img/prieto.jpeg, id=238, 1204.5pt x 803.0pt>
+File: img/prieto.jpeg Graphic file (type jpg)
+<use img/prieto.jpeg>
+Package pdftex.def Info: img/prieto.jpeg  used on input line 277.
+(pdftex.def)             Requested size: 364.20155pt x 242.80104pt.
+ [36
 
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+ <./img/prieto.jpeg>]
+<img/leninopad.png, id=244, 857.2025pt x 529.98pt>
+File: img/leninopad.png Graphic file (type png)
+<use img/leninopad.png>
+Package pdftex.def Info: img/leninopad.png  used on input line 281.
+(pdftex.def)             Requested size: 364.19507pt x 225.16977pt.
+ [37
 
-[36
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[37
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+ <./img/leninopad.png>]
+<img/gessen.png, id=252, 1321.93875pt x 547.04375pt>
+File: img/gessen.png Graphic file (type png)
+<use img/gessen.png>
+Package pdftex.def Info: img/gessen.png  used on input line 285.
+(pdftex.def)             Requested size: 364.18985pt x 150.70877pt.
 
 [38
 
-]
+ <./img/gessen.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1841,41 +1858,27 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [41
 
 ]
-<img/pac.jpg, id=258, 392.46625pt x 394.47375pt>
-File: img/pac.jpg Graphic file (type jpg)
-<use img/pac.jpg>
-Package pdftex.def Info: img/pac.jpg  used on input line 290.
-(pdftex.def)             Requested size: 158.8575pt x 159.6707pt.
-<img/ronda-campesina.jpg, id=259, 447.6725pt x 463.7325pt>
-File: img/ronda-campesina.jpg Graphic file (type jpg)
-<use img/ronda-campesina.jpg>
-Package pdftex.def Info: img/ronda-campesina.jpg  used on input line 290.
-(pdftex.def)             Requested size: 158.8575pt x 164.55896pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [42
 
- <./img/pac.jpg> <./img/ronda-campesina.jpg>]
-<img/lynching.png, id=265, 794.97pt x 517.935pt>
-File: img/lynching.png Graphic file (type png)
-<use img/lynching.png>
-Package pdftex.def Info: img/lynching.png  used on input line 294.
-(pdftex.def)             Requested size: 364.19862pt x 237.2809pt.
- [43
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
 
- <./img/lynching.png>]
-<img/ukraine.png, id=273, 954.56625pt x 695.59875pt>
-File: img/ukraine.png Graphic file (type png)
-<use img/ukraine.png>
-Package pdftex.def Info: img/ukraine.png  used on input line 298.
-(pdftex.def)             Requested size: 364.1955pt x 265.39166pt.
+[43
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
 
 [44
 
- <./img/ukraine.png>]
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1890,27 +1893,41 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [46
 
 ]
+<img/pac.jpg, id=300, 392.46625pt x 394.47375pt>
+File: img/pac.jpg Graphic file (type jpg)
+<use img/pac.jpg>
+Package pdftex.def Info: img/pac.jpg  used on input line 333.
+(pdftex.def)             Requested size: 158.8575pt x 159.6707pt.
+<img/ronda-campesina.jpg, id=301, 447.6725pt x 463.7325pt>
+File: img/ronda-campesina.jpg Graphic file (type jpg)
+<use img/ronda-campesina.jpg>
+Package pdftex.def Info: img/ronda-campesina.jpg  used on input line 333.
+(pdftex.def)             Requested size: 158.8575pt x 164.55896pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [47
 
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+ <./img/pac.jpg> <./img/ronda-campesina.jpg>]
+<img/lynching.png, id=307, 794.97pt x 517.935pt>
+File: img/lynching.png Graphic file (type png)
+<use img/lynching.png>
+Package pdftex.def Info: img/lynching.png  used on input line 337.
+(pdftex.def)             Requested size: 364.19862pt x 237.2809pt.
+ [48
 
-[48
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+ <./img/lynching.png>]
+<img/ukraine.png, id=314, 954.56625pt x 695.59875pt>
+File: img/ukraine.png Graphic file (type png)
+<use img/ukraine.png>
+Package pdftex.def Info: img/ukraine.png  used on input line 341.
+(pdftex.def)             Requested size: 364.1955pt x 265.39166pt.
 
 [49
 
-]
+ <./img/ukraine.png>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1946,22 +1963,20 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [54
 
 ]
-<img/wwii_women.jpg, id=335, 2007.5pt x 1505.625pt>
-File: img/wwii_women.jpg Graphic file (type jpg)
-<use img/wwii_women.jpg>
-Package pdftex.def Info: img/wwii_women.jpg  used on input line 339.
-(pdftex.def)             Requested size: 364.18318pt x 273.13739pt.
- [55
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
 
- <./img/wwii_women.jpg>]
-<img/ypg-women.jpg, id=342, 1442.38875pt x 1335.99126pt>
-File: img/ypg-women.jpg Graphic file (type jpg)
-<use img/ypg-women.jpg>
-Package pdftex.def Info: img/ypg-women.jpg  used on input line 360.
-(pdftex.def)             Requested size: 294.89928pt x 273.1461pt.
- [56
+[55
 
- <./img/ypg-women.jpg>]
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[56
+
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1976,29 +1991,29 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [58
 
 ]
-<img/maya_women_guate.png, id=360, 891.33pt x 528.97626pt>
-File: img/maya_women_guate.png Graphic file (type png)
-<use img/maya_women_guate.png>
-Package pdftex.def Info: img/maya_women_guate.png  used on input line 368.
-(pdftex.def)             Requested size: 364.19641pt x 216.13908pt.
- [59
-
- <./img/maya_women_guate.png>]
-<img/plaza_mayo.jpeg, id=367, 1204.5pt x 702.625pt>
-File: img/plaza_mayo.jpeg Graphic file (type jpg)
-<use img/plaza_mayo.jpeg>
-Package pdftex.def Info: img/plaza_mayo.jpeg  used on input line 372.
-(pdftex.def)             Requested size: 364.20155pt x 212.4509pt.
- [60
-
- <./img/plaza_mayo.jpeg>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[61
+[59
 
 ]
+<img/wwii_women.jpg, id=377, 2007.5pt x 1505.625pt>
+File: img/wwii_women.jpg Graphic file (type jpg)
+<use img/wwii_women.jpg>
+Package pdftex.def Info: img/wwii_women.jpg  used on input line 382.
+(pdftex.def)             Requested size: 364.18318pt x 273.13739pt.
+ [60
+
+ <./img/wwii_women.jpg>]
+<img/ypg-women.jpg, id=383, 1442.38875pt x 1335.99126pt>
+File: img/ypg-women.jpg Graphic file (type jpg)
+<use img/ypg-women.jpg>
+Package pdftex.def Info: img/ypg-women.jpg  used on input line 403.
+(pdftex.def)             Requested size: 294.89928pt x 273.1461pt.
+ [61
+
+ <./img/ypg-women.jpg>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2013,20 +2028,22 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [63
 
 ]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
+<img/maya_women_guate.png, id=402, 891.33pt x 528.97626pt>
+File: img/maya_women_guate.png Graphic file (type png)
+<use img/maya_women_guate.png>
+Package pdftex.def Info: img/maya_women_guate.png  used on input line 411.
+(pdftex.def)             Requested size: 364.19641pt x 216.13908pt.
+ [64
 
-[64
+ <./img/maya_women_guate.png>]
+<img/plaza_mayo.jpeg, id=409, 1204.5pt x 702.625pt>
+File: img/plaza_mayo.jpeg Graphic file (type jpg)
+<use img/plaza_mayo.jpeg>
+Package pdftex.def Info: img/plaza_mayo.jpeg  used on input line 415.
+(pdftex.def)             Requested size: 364.20155pt x 212.4509pt.
+ [65
 
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[65
-
-]
+ <./img/plaza_mayo.jpeg>]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2048,41 +2065,27 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [68
 
 ]
-<img/Apocalypse_vasnetsov.jpeg, id=415, 2298.5875pt x 1204.5pt>
-File: img/Apocalypse_vasnetsov.jpeg Graphic file (type jpg)
-<use img/Apocalypse_vasnetsov.jpeg>
-Package pdftex.def Info: img/Apocalypse_vasnetsov.jpeg  used on input line 417.
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
 
-(pdftex.def)             Requested size: 364.16895pt x 190.83089pt.
- [69
+[69
 
- <./img/Apocalypse_vasnetsov.jpeg>]
-<img/black_death.jpeg, id=421, 963.6pt x 542.025pt>
-File: img/black_death.jpeg Graphic file (type jpg)
-<use img/black_death.jpeg>
-Package pdftex.def Info: img/black_death.jpeg  used on input line 421.
-(pdftex.def)             Requested size: 364.18686pt x 204.8551pt.
- [70
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
 
- <./img/black_death.jpeg>]
-<img/scheidel.jpg, id=427, 349.305pt x 520.94624pt>
-File: img/scheidel.jpg Graphic file (type jpg)
-<use img/scheidel.jpg>
-Package pdftex.def Info: img/scheidel.jpg  used on input line 442.
-(pdftex.def)             Requested size: 126.43599pt x 188.56592pt.
+[70
 
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [71
 
- <./img/scheidel.jpg>]
-File: img/scheidel.jpg Graphic file (type jpg)
-<use img/scheidel.jpg>
-Package pdftex.def Info: img/scheidel.jpg  used on input line 442.
-(pdftex.def)             Requested size: 126.43599pt x 188.56592pt.
-
+]
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2090,11 +2093,6 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [72
 
 ]
-File: img/scheidel.jpg Graphic file (type jpg)
-<use img/scheidel.jpg>
-Package pdftex.def Info: img/scheidel.jpg  used on input line 442.
-(pdftex.def)             Requested size: 126.43599pt x 188.56592pt.
-
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2102,38 +2100,40 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [73
 
 ]
+<img/Apocalypse_vasnetsov.jpeg, id=458, 2298.5875pt x 1204.5pt>
+File: img/Apocalypse_vasnetsov.jpeg Graphic file (type jpg)
+<use img/Apocalypse_vasnetsov.jpeg>
+Package pdftex.def Info: img/Apocalypse_vasnetsov.jpeg  used on input line 460.
+
+(pdftex.def)             Requested size: 364.16895pt x 190.83089pt.
+ [74
+
+ <./img/Apocalypse_vasnetsov.jpeg>]
+<img/black_death.jpeg, id=464, 963.6pt x 542.025pt>
+File: img/black_death.jpeg Graphic file (type jpg)
+<use img/black_death.jpeg>
+Package pdftex.def Info: img/black_death.jpeg  used on input line 464.
+(pdftex.def)             Requested size: 364.18686pt x 204.8551pt.
+ [75
+
+ <./img/black_death.jpeg>]
+<img/scheidel.jpg, id=470, 349.305pt x 520.94624pt>
 File: img/scheidel.jpg Graphic file (type jpg)
 <use img/scheidel.jpg>
-Package pdftex.def Info: img/scheidel.jpg  used on input line 442.
+Package pdftex.def Info: img/scheidel.jpg  used on input line 485.
 (pdftex.def)             Requested size: 126.43599pt x 188.56592pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
-[74
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
-[75
-
-]
-Overfull \hbox (2.12503pt too wide) has occurred while \output is active
-[][] 
- []
-
 [76
 
-]
-<img/ineq-long-term-europe.png, id=461, 1081.03876pt x 476.78125pt>
-File: img/ineq-long-term-europe.png Graphic file (type png)
-<use img/ineq-long-term-europe.png>
-Package pdftex.def Info: img/ineq-long-term-europe.png  used on input line 496.
-
-(pdftex.def)             Requested size: 324.19536pt x 142.97726pt.
+ <./img/scheidel.jpg>]
+File: img/scheidel.jpg Graphic file (type jpg)
+<use img/scheidel.jpg>
+Package pdftex.def Info: img/scheidel.jpg  used on input line 485.
+(pdftex.def)             Requested size: 126.43599pt x 188.56592pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2141,12 +2141,11 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [77
 
- <./img/ineq-long-term-europe.png>]
-<img/ineq-us.png, id=468, 914.91812pt x 387.94937pt>
-File: img/ineq-us.png Graphic file (type png)
-<use img/ineq-us.png>
-Package pdftex.def Info: img/ineq-us.png  used on input line 506.
-(pdftex.def)             Requested size: 324.19536pt x 137.46548pt.
+]
+File: img/scheidel.jpg Graphic file (type jpg)
+<use img/scheidel.jpg>
+Package pdftex.def Info: img/scheidel.jpg  used on input line 485.
+(pdftex.def)             Requested size: 126.43599pt x 188.56592pt.
 
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
@@ -2154,7 +2153,12 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 
 [78
 
- <./img/ineq-us.png>]
+]
+File: img/scheidel.jpg Graphic file (type jpg)
+<use img/scheidel.jpg>
+Package pdftex.def Info: img/scheidel.jpg  used on input line 485.
+(pdftex.def)             Requested size: 126.43599pt x 188.56592pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2176,27 +2180,75 @@ Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [81
 
 ]
+<img/ineq-long-term-europe.png, id=503, 1081.03876pt x 476.78125pt>
+File: img/ineq-long-term-europe.png Graphic file (type png)
+<use img/ineq-long-term-europe.png>
+Package pdftex.def Info: img/ineq-long-term-europe.png  used on input line 539.
+
+(pdftex.def)             Requested size: 324.19536pt x 142.97726pt.
+
 Overfull \hbox (2.12503pt too wide) has occurred while \output is active
 [][] 
  []
 
 [82
 
+ <./img/ineq-long-term-europe.png>]
+<img/ineq-us.png, id=510, 914.91812pt x 387.94937pt>
+File: img/ineq-us.png Graphic file (type png)
+<use img/ineq-us.png>
+Package pdftex.def Info: img/ineq-us.png  used on input line 549.
+(pdftex.def)             Requested size: 324.19536pt x 137.46548pt.
+
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[83
+
+ <./img/ineq-us.png>]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[84
+
 ]
-<img/uganda-pike.png, id=496, 649.67719pt x 419.31656pt>
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[85
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[86
+
+]
+Overfull \hbox (2.12503pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[87
+
+]
+<img/uganda-pike.png, id=538, 649.67719pt x 419.31656pt>
 File: img/uganda-pike.png Graphic file (type png)
 <use img/uganda-pike.png>
-Package pdftex.def Info: img/uganda-pike.png  used on input line 537.
+Package pdftex.def Info: img/uganda-pike.png  used on input line 580.
 (pdftex.def)             Requested size: 364.20335pt x 235.06519pt.
- [83
+ [88
 
  <./img/uganda-pike.png>]
-<img/state_capacity.png, id=502, 1098.1025pt x 610.28pt>
+<img/state_capacity.png, id=544, 1098.1025pt x 610.28pt>
 File: img/state_capacity.png Graphic file (type png)
 <use img/state_capacity.png>
-Package pdftex.def Info: img/state_capacity.png  used on input line 541.
+Package pdftex.def Info: img/state_capacity.png  used on input line 584.
 (pdftex.def)             Requested size: 364.18456pt x 202.39873pt.
- [84
+ [89
 
  <./img/state_capacity.png>]
 \tf@nav=\write7
@@ -2217,10 +2269,10 @@ Package logreq Info: Writing requests to 'legacies.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32919 strings out of 478994
- 633920 string characters out of 5858184
- 1337441 words of memory out of 5000000
- 49536 multiletter control sequences out of 15000+600000
+ 33017 strings out of 478994
+ 635403 string characters out of 5858184
+ 1338723 words of memory out of 5000000
+ 49616 multiletter control sequences out of 15000+600000
  415533 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,1133b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2231,10 +2283,10 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on legacies.pdf (84 pages, 12943260 bytes).
+Output written on legacies.pdf (89 pages, 14698768 bytes).
 PDF statistics:
- 574 PDF objects out of 1000 (max. 8388607)
- 429 compressed objects within 5 object streams
- 179 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 619 PDF objects out of 1000 (max. 8388607)
+ 453 compressed objects within 5 object streams
+ 189 named destinations out of 1000 (max. 500000)
+ 228 words of extra memory for PDF output out of 10000 (max. 10000000)
 
