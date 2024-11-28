@@ -23,6 +23,6 @@ layout: default
 | Nov 7-8  | Non-state armed actors and civilians | [[PDF](./slides/08_rebels/rebels.pdf)] | [[url](https://americanaffairsjournal.org/2024/05/the-bukele-model-and-the-future-of-el-salvador/)] |
 | Nov 14-15  | Terrorism | [[PDF](./slides/09_terrorism/terrorism.pdf)] | [[url](https://www.newyorker.com/magazine/2024/08/12/yahya-sinwar-profile-hamas-gaza-war-israel)] |
 | Nov 21-22  | Postwar politics and TJ | [[PDF](./slides/10_postwar_TJ/postwar_TJ.pdf)] | [[url](https://www.newyorker.com/magazine/2022/08/08/the-prosecution-of-russian-war-crimes-in-ukraine)] |
-| Nov 28-29 | Legacies of war | <!-- [[PDF](./slides/11_legacies/legacies.pdf)] --> | [[url](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)] |
+| Nov 28-29 | Legacies of war | [[PDF](./slides/11_legacies/legacies.pdf)] | [[url](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)] |
 | Dec 5  | Students' presentations (2) |||
 | Dec 12-13   | Wrap-up & Presentations (3) | <!-- [[PDF](./slides/12_wrap/wrap_up.pdf)] --> ||
